@@ -6,6 +6,7 @@ package main
 //#include <agar/gui.h>
 import (
 	"fmt"
+	"github.com/varialus/agar/development/core"
 	"github.com/varialus/agar/development/gui"
 )
 //
@@ -19,8 +20,11 @@ func main() {
 //
 //	if (AG_InitCore(NULL, 0) == -1 ||
 //		AG_InitGraphics(0) == -1) {
+	if core.AG_InitCore(nil, 0) == -1 || gui.AG_InitGraphics(0) == -1 {
 //		return (1);
+		return
 //	}
+	}
 //	win = AG_WindowNew(0);
 //	AG_LabelNew(win, 0, "Hello, world!");
 //	AG_WindowShow(win);
