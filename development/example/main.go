@@ -5,6 +5,7 @@ package main
 //#include <agar/core.h>
 //#include <agar/gui.h>
 import (
+	"fmt"
 	"github.com/varialus/agar/development/gui"
 )
 //
