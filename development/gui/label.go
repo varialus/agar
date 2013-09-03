@@ -71,7 +71,7 @@ type ag_label struct {
 //} AG_Label;
 }
 
-type AG_Label ag_label
+type aG_Label ag_label
 
 //
 //__BEGIN_DECLS
@@ -270,9 +270,9 @@ type AG_Label ag_label
 //AG_Label *
 //AG_LabelNew(void *parent, Uint flags, const char *fmt, ...)
 //{
-func AG_LabelNew(parent interface{}, flags uint, fmt string) *AG_Label {
+func AG_LabelNew(parent interface{}, flags uint, fmt string) *aG_Label {
 //	AG_Label *lbl;
-	var lbl *AG_Label
+	var lbl *aG_Label
 //	va_list ap;
 //
 //	lbl = Malloc(sizeof(AG_Label));

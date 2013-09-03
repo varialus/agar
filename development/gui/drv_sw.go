@@ -80,7 +80,7 @@ type ag_driver_sw struct {
 //} AG_DriverSw;
 }
 
-type AG_DriverSw ag_driver_sw
+type aG_DriverSw ag_driver_sw
 
 //
 //#define AGDRIVER_SW(obj) ((AG_DriverSw *)(obj))
@@ -89,7 +89,7 @@ type AG_DriverSw ag_driver_sw
 //__BEGIN_DECLS
 //extern AG_ObjectClass    agDriverSwClass;
 //extern AG_DriverSw      *agDriverSw;		/* Driver instance (or NULL) */
-var	AgDriverSw	*AG_DriverSw
+var	agDriverSw	*aG_DriverSw
 //
 //struct ag_size_alloc;
 //
@@ -131,18 +131,18 @@ var	AgDriverSw	*AG_DriverSw
 func AG_EventLoop() {
 
 	// TODO: Remove this line. It's just here because I haven't yet implemented its initialization.
-	AgDriverOps = new(AG_DriverClass)
+	agDriverOps = new(aG_DriverClass)
 
 //	if (agDriverSw != NULL) {
-	if AgDriverSw != nil {
+	if agDriverSw != nil {
 //		AGDRIVER(agDriverSw)->flags &= ~(AG_DRIVER_FIXED_FPS);
 		// Manual Expansion of Macro in gui/driver.h without Translation
 		//((AG_Driver *)(agDriverSw))->flags &= ~(AG_DRIVER_FIXED_FPS);
-		(*AG_Driver)(unsafe.Pointer(AgDriverSw)).flags &= ^uint(AG_DRIVER_FIXED_FPS)
+		(*aG_Driver)(unsafe.Pointer(agDriverSw)).flags &= ^uint(aG_DRIVER_FIXED_FPS)
 //	}
 	}
 //	agDriverOps->genericEventLoop(agDriverSw);
-	AgDriverOps.genericEventLoop(AgDriverSw)
+	agDriverOps.genericEventLoop(agDriverSw)
 //}
 }
 //

@@ -87,6 +87,11 @@ package gui
 //#include "icons.h"
 //#include "icons_data.h"
 //#include "text.h"
+
+import (
+	"fmt"
+)
+
 //
 //void *agGUIClasses[] = {
 //	&agWidgetClass,
@@ -153,6 +158,7 @@ package gui
 //int
 //AG_InitGUIGlobals(void)
 //{
+func aG_InitGUIGlobals() int {
 //	Uint i;
 //
 //	if (initedGlobals) {
@@ -187,6 +193,8 @@ package gui
 //	AG_ObjectInitStatic(&agInputDevices, &agObjectClass);
 //	return (0);
 //}
+	return 0
+}
 //
 ///*
 // * Destroy the Agar-GUI globals and built-in classes. This function
@@ -293,13 +301,33 @@ package gui
 //{
 func AG_InitGraphics(spec rune) int {
 //	char specBuf[128], *s, *sOpts = "", *tok;
+	var specBuf [128]byte
+	fmt.Println("specBuf ==", specBuf)
+	var s *string
+	fmt.Println("s ==", s)
+	var sOpts *string = new(string)
+	fmt.Println("*sOpts ==", *sOpts)
+	var tok *string
+	fmt.Println("tok ==", tok)
 //	AG_Driver *drv = NULL;
+	var drv *aG_Driver
+	fmt.Println("drv ==", drv)
 //	AG_DriverClass *dc = NULL;
+	var dc *aG_DriverClass
+	fmt.Println("dc ==", dc)
 //	int i;
+	var i int
+	fmt.Println("i ==", i)
 //	size_t len;
+	var len uintptr
+	fmt.Println("len ==", len)
 //	
+
 //	if (AG_InitGUIGlobals() == -1)
+	if aG_InitGUIGlobals() == -1 {
 //		return (-1);
+		return -1
+	}
 //
 //	if (spec != NULL && spec[0] != '\0') {
 //		Strlcpy(specBuf, spec, sizeof(specBuf));

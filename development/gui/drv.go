@@ -112,9 +112,9 @@ type ag_driver_class struct {
 //} AG_DriverClass;
 }
 
-type AG_DriverClass ag_driver_class
+type aG_DriverClass ag_driver_class
 
-func (d AG_DriverClass) genericEventLoop(drv *AG_DriverSw) {
+func (d aG_DriverClass) genericEventLoop(drv *aG_DriverSw) {
 
 }
 
@@ -141,10 +141,10 @@ type ag_driver struct {
 //} AG_Driver;
 }
 
-type AG_Driver ag_driver
+type aG_Driver ag_driver
 
 const (
-	AG_DRIVER_FIXED_FPS = 0x01
+	aG_DRIVER_FIXED_FPS = 0x01
 )
 //
 ///* Generic driver event (for custom event loops). */
@@ -200,7 +200,7 @@ const (
 //
 //extern AG_Object       agDrivers;	/* Drivers VFS */
 //extern AG_DriverClass *agDriverOps;	/* Current driver class */
-var AgDriverOps *AG_DriverClass
+var agDriverOps *aG_DriverClass
 //extern void           *agDriverList[];	/* Available drivers (AG_DriverClass) */
 //extern Uint            agDriverListSize;
 //extern int             agRenderingContext;
