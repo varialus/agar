@@ -1012,6 +1012,7 @@ func AG_WindowNew(flags uint) *AG_Window {
 //void
 //AG_WindowShow(AG_Window *win)
 //{
+func AG_WindowShow(win *AG_Window) {
 //	AG_ObjectLock(win);
 //	if (!win->visible) {
 //		AG_PostEvent(NULL, win, "widget-shown", NULL);
@@ -1019,6 +1020,7 @@ func AG_WindowNew(flags uint) *AG_Window {
 //	}
 //	AG_ObjectUnlock(win);
 //}
+}
 //
 ///* Clear the visibility bit of a window. */
 //void

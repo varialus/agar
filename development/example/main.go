@@ -30,6 +30,7 @@ func main() {
 //	AG_LabelNew(win, 0, "Hello, world!");
 	gui.AG_LabelNew(win, 0, "Hello, world!")
 //	AG_WindowShow(win);
+	gui.AG_WindowShow(win)
 //	AG_EventLoop();
 //	return (0);
 //}
