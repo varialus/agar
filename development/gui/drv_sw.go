@@ -52,9 +52,11 @@ package gui
 //
 ///* Single-window driver instance */
 //typedef struct ag_driver_sw {
+type ag_driver_sw struct {
 //	struct ag_driver _inherit;
 //	Uint w, h, depth;		/* Video resolution */
 //	Uint flags;
+	flags uint
 //#define AG_DRIVER_SW_OVERLAY	0x01	/* "Overlay" mode */
 //#define AG_DRIVER_SW_BGPOPUP	0x02	/* Enable generic background popup */
 //
@@ -72,6 +74,10 @@ package gui
 //	Uint rNom;			/* Nominal refresh rate (ms) */
 //	int rCur;			/* Effective refresh rate (ms) */
 //} AG_DriverSw;
+}
+
+type AG_DriverSw ag_driver_sw
+
 //
 //#define AGDRIVER_SW(obj) ((AG_DriverSw *)(obj))
 //#define AGDRIVER_SW_CLASS(obj) ((struct ag_driver_sw_class *)(AGOBJECT(obj)->cls))
@@ -79,6 +85,7 @@ package gui
 //__BEGIN_DECLS
 //extern AG_ObjectClass    agDriverSwClass;
 //extern AG_DriverSw      *agDriverSw;		/* Driver instance (or NULL) */
+var	AgDriverSw	*AG_DriverSw
 //
 //struct ag_size_alloc;
 //
@@ -119,8 +126,13 @@ package gui
 //{
 func AG_EventLoop() {
 //	if (agDriverSw != NULL) {
+	if AgDriverSw != nil {
 //		AGDRIVER(agDriverSw)->flags &= ~(AG_DRIVER_FIXED_FPS);
+		// Manual Expansion of Macro in gui/driver.h without Translation
+		//((AG_Driver *)(agDriverSw))->flags &= ~(AG_DRIVER_FIXED_FPS);
+		AgDriverSw.flags &= ^uint(AG_DRIVER_FIXED_FPS)
 //	}
+	}
 //	agDriverOps->genericEventLoop(agDriverSw);
 //}
 }
