@@ -90,6 +90,7 @@ package gui
 
 import (
 	"fmt"
+	"unsafe"
 )
 
 //
@@ -299,9 +300,9 @@ func aG_InitGUIGlobals() int {
 //int
 //AG_InitGraphics(const char *spec)
 //{
-func AG_InitGraphics(spec rune) int {
+func AG_InitGraphics(spec string) int {
 //	char specBuf[128], *s, *sOpts = "", *tok;
-	var specBuf [128]byte
+	var specBuf [128]rune
 	fmt.Println("specBuf ==", specBuf)
 	var s *string
 	fmt.Println("s ==", s)
@@ -314,7 +315,6 @@ func AG_InitGraphics(spec rune) int {
 	fmt.Println("drv ==", drv)
 //	AG_DriverClass *dc = NULL;
 	var dc *aG_DriverClass
-	fmt.Println("dc ==", dc)
 //	int i;
 	var i int
 	fmt.Println("i ==", i)
@@ -329,7 +329,9 @@ func AG_InitGraphics(spec rune) int {
 		return -1
 	}
 //
+
 //	if (spec != NULL && spec[0] != '\0') {
+	if spec != "" {
 //		Strlcpy(specBuf, spec, sizeof(specBuf));
 //		s = &specBuf[0];
 //
@@ -387,19 +389,27 @@ func AG_InitGraphics(spec rune) int {
 //			}
 //		}
 //	} else {
+	} else {
 //		/*
 //		 * Auto-select best available driver.
 //		 */
 //		for (i = 0; i < agDriverListSize; i++) {
+		for i = 0; int64(i) < int64(agDriverListSize); i++ {
 //			dc = agDriverList[i];
+			dc = (*aG_DriverClass)(unsafe.Pointer(agDriverList[i]))
 //			if ((drv = AG_DriverOpen(dc)) != NULL)
+			if drv = aG_DriverOpen(dc); drv != nil {
+				break
 //				break;
+			}
 //		}
+		}
 //		if (i == agDriverListSize) {
 //			AG_SetError(_("No graphics drivers are available"));
 //			goto fail;
 //		}
 //	}
+	}
 //	
 //	Verbose(_("Selected graphics driver: %s %s\n"), dc->name, sOpts);
 //
@@ -448,6 +458,7 @@ func AG_InitGraphics(spec rune) int {
 //		goto fail;
 //
 //	agDriverOps = dc;
+	agDriverOps = dc
 //	agDriverSw = (dc->wm == AG_WM_SINGLE) ? AGDRIVER_SW(drv) : NULL;
 //#ifdef AG_LEGACY
 //	agView = drv;
