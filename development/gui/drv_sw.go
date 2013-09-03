@@ -2,6 +2,10 @@
 
 package gui
 
+import (
+	"unsafe"
+)
+
 //
 ///*
 // * Single-window graphics driver framework. In this mode, the driver
@@ -134,7 +138,7 @@ func AG_EventLoop() {
 //		AGDRIVER(agDriverSw)->flags &= ~(AG_DRIVER_FIXED_FPS);
 		// Manual Expansion of Macro in gui/driver.h without Translation
 		//((AG_Driver *)(agDriverSw))->flags &= ~(AG_DRIVER_FIXED_FPS);
-		AgDriverSw.flags &= ^uint(AG_DRIVER_FIXED_FPS)
+		(*AG_Driver)(unsafe.Pointer(AgDriverSw)).flags &= ^uint(AG_DRIVER_FIXED_FPS)
 //	}
 	}
 //	agDriverOps->genericEventLoop(agDriverSw);
