@@ -1,3 +1,4 @@
+package gui
 
 ///*	Public domain	*/
 //
@@ -43,6 +44,7 @@
 //
 ///* Window instance */
 //typedef struct ag_window {
+type ag_window struct {
 //	struct ag_widget wid;
 //
 //	Uint flags;
@@ -106,6 +108,9 @@
 //	AG_Widget *widExclMotion;		/* Widget exclusively receiving mousemotion */
 //	AG_TAILQ_HEAD_(ag_cursor_area) cursorAreas; /* Cursor-change areas */
 //} AG_Window;
+}
+
+type AG_Window ag_window
 //
 //AG_TAILQ_HEAD(ag_windowq, ag_window);
 //
