@@ -90,7 +90,6 @@ package gui
 
 import (
 	"fmt"
-	"unsafe"
 )
 
 //
@@ -314,7 +313,7 @@ func AG_InitGraphics(spec string) int {
 	var drv *aG_Driver
 	fmt.Println("drv ==", drv)
 //	AG_DriverClass *dc = NULL;
-	var dc *aG_DriverClass
+	var dc aG_DriverClassInterface
 //	int i;
 	var i int
 	fmt.Println("i ==", i)
@@ -396,9 +395,9 @@ func AG_InitGraphics(spec string) int {
 //		for (i = 0; i < agDriverListSize; i++) {
 		for i = 0; int64(i) < int64(agDriverListSize); i++ {
 //			dc = agDriverList[i];
-			dc = (*aG_DriverClass)(unsafe.Pointer(agDriverList[i]))
+			dc = agDriverList[i]
 //			if ((drv = AG_DriverOpen(dc)) != NULL)
-			if drv = aG_DriverOpen(dc); drv != nil {
+			if drv = aG_DriverOpen(&dc); drv != nil {
 				break
 //				break;
 			}

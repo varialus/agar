@@ -9,11 +9,6 @@ package gui
 //#ifndef _AGAR_GUI_DRV_H_
 //#define _AGAR_GUI_DRV_H_
 //#include <agar/gui/begin.h>
-
-//import (
-//	"unsafe"
-//)
-
 //
 //enum ag_driver_type {
 //	AG_FRAMEBUFFER,			/* Direct rendering to frame buffer */
@@ -119,8 +114,8 @@ type ag_driver_class struct {
 
 type aG_DriverClass ag_driver_class
 
-func (d aG_DriverClass) genericEventLoop(drv *aG_DriverSw) {
-
+type aG_DriverClassInterface interface {
+	genericEventLoop(drv *aG_DriverSw)
 }
 
 //
@@ -205,7 +200,7 @@ const (
 //
 //extern AG_Object       agDrivers;	/* Drivers VFS */
 //extern AG_DriverClass *agDriverOps;	/* Current driver class */
-var agDriverOps *aG_DriverClass
+var agDriverOps aG_DriverClassInterface
 //extern void           *agDriverList[];	/* Available drivers (AG_DriverClass) */
 //extern Uint            agDriverListSize;
 /* Already Defined Below */
@@ -354,7 +349,7 @@ var agDriverOps *aG_DriverClass
 //
 //#if defined(HAVE_GLX)
 //extern AG_Driver agDriverGLX;
-var AgDriverGLX aG_Driver
+/* Already Defined in gui/drv_glx.go */
 //#endif
 //#if defined(HAVE_SDL)
 //extern AG_Driver agDriverSDLFB;
@@ -374,7 +369,8 @@ var AgDriverGLX aG_Driver
 //#endif
 //
 //void *agDriverList[] = {
-var agDriverList []*aG_Driver = []*aG_Driver{&AgDriverGLX}
+/* TODO: Programatically determine whether prerequisites are available. */
+var agDriverList []aG_DriverClassInterface = []aG_DriverClassInterface{&agDriverGLX}
 //#if defined(HAVE_GLX)
 //	&agDriverGLX,
 //#endif
@@ -416,7 +412,7 @@ var agDriverListSize uint = uint(len(agDriverList))
 //AG_DriverOpen(AG_DriverClass *dc)
 //{
 //	AG_Driver *drv;
-func aG_DriverOpen(dc *aG_DriverClass) (drv *aG_Driver) {
+func aG_DriverOpen(dc *aG_DriverClassInterface) (drv *aG_Driver) {
 //
 //	if ((drv = AG_ObjectNew(NULL, dc->name, AGCLASS(dc))) == NULL) {
 //		return (NULL);
