@@ -424,12 +424,12 @@ func AG_InitGraphics(spec rune) int {
 //#ifdef AG_LEGACY
 //	agView = drv;
 //#endif
+	return 0
 //	return (0);
 //fail:
 //	if (drv != NULL) { AG_DriverClose(drv); }
 //	AG_DestroyGUIGlobals();
 //	return (-1);
-	return -1
 //}
 }
 //

@@ -8,6 +8,7 @@ import (
 	"fmt"
 	"github.com/varialus/agar/development/core"
 	"github.com/varialus/agar/development/gui"
+	"os"
 )
 //
 //int
@@ -22,7 +23,7 @@ func main() {
 //		AG_InitGraphics(0) == -1) {
 	if core.AG_InitCore(nil, 0) == -1 || gui.AG_InitGraphics(0) == -1 {
 //		return (1);
-		return
+		os.Exit(1)
 //	}
 	}
 //	win = AG_WindowNew(0);
@@ -32,6 +33,8 @@ func main() {
 //	AG_WindowShow(win);
 	gui.AG_WindowShow(win)
 //	AG_EventLoop();
+	gui.AG_EventLoop()
 //	return (0);
+	os.Exit(0)
 //}
 }
