@@ -1,11 +1,14 @@
 // http://libagar.org/docs/inst/unix.html
 
+package main
+
 //#include <agar/core.h>
 //#include <agar/gui.h>
 //
 //int
 //main(int argc, char *argv)
 //{
+func main() {
 //	AG_Window *win;
 //
 //	if (AG_InitCore(NULL, 0) == -1 ||
@@ -18,3 +21,4 @@
 //	AG_EventLoop();
 //	return (0);
 //}
+}
