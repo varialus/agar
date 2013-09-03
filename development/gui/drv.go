@@ -28,6 +28,7 @@ package gui
 //
 ///* Generic graphics driver class */
 //typedef struct ag_driver_class {
+type ag_driver_class struct {
 //	struct ag_object_class _inherit;
 //	const char *name;			/* Short name */
 //	enum ag_driver_type type;		/* Driver type */
@@ -109,6 +110,14 @@ package gui
 //	/* Display list management (GL driver specific) */
 //	void (*deleteList)(void *drv, Uint);
 //} AG_DriverClass;
+}
+
+type AG_DriverClass ag_driver_class
+
+func (d AG_DriverClass) genericEventLoop(drv *AG_DriverSw) {
+
+}
+
 //
 ///* Generic driver instance. */
 //typedef struct ag_driver {
@@ -191,6 +200,7 @@ const (
 //
 //extern AG_Object       agDrivers;	/* Drivers VFS */
 //extern AG_DriverClass *agDriverOps;	/* Current driver class */
+var AgDriverOps *AG_DriverClass
 //extern void           *agDriverList[];	/* Available drivers (AG_DriverClass) */
 //extern Uint            agDriverListSize;
 //extern int             agRenderingContext;

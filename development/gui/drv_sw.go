@@ -125,6 +125,10 @@ var	AgDriverSw	*AG_DriverSw
 //AG_EventLoop(void)
 //{
 func AG_EventLoop() {
+
+	// TODO: Remove this line. It's just here because I haven't yet implemented its initialization.
+	AgDriverOps = new(AG_DriverClass)
+
 //	if (agDriverSw != NULL) {
 	if AgDriverSw != nil {
 //		AGDRIVER(agDriverSw)->flags &= ~(AG_DRIVER_FIXED_FPS);
@@ -134,6 +138,7 @@ func AG_EventLoop() {
 //	}
 	}
 //	agDriverOps->genericEventLoop(agDriverSw);
+	AgDriverOps.genericEventLoop(AgDriverSw)
 //}
 }
 //
