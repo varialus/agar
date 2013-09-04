@@ -807,7 +807,6 @@ import (
 //{
 func (d *aG_DriverMwClass) genericEventLoop(obj *aG_DriverSw) {
 	fmt.Println("The GLX version of genericEventLoop is being called")
-}
 //	AG_Driver *drv;
 //	AG_DriverGLX *glx;
 //	AG_DriverEvent dev;
@@ -862,6 +861,7 @@ func (d *aG_DriverMwClass) genericEventLoop(obj *aG_DriverSw) {
 //		}
 //	}
 //}
+}
 //
 //static void
 //GLX_Terminate(void)
