@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/8766/trunk/ada-gui/SYSDEPS/modules/agar-flags
+END
+config_bin_args
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/agar-flags/config_bin_args
+END
+config_bin
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/agar-flags/config_bin
+END
+defines
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/agar-flags/defines
+END
+desc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/agar-flags/desc
+END
+sysdepout
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/agar-flags/sysdepout
+END
+clean
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/agar-flags/clean
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/agar-flags/run
+END
+creates
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/agar-flags/creates
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/agar/!svn/ver/9560/trunk/dev
+END
+dev_pub.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/7899/trunk/dev/dev_pub.h
+END
+begin.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/8921/trunk/dev/begin.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9501/trunk/dev/Makefile
+END
+classes.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/8364/trunk/dev/classes.c
+END
+cpuinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/8711/trunk/dev/cpuinfo.c
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9501/trunk/dev/Makefile.inc
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9453/trunk/dev/config.c
+END
+object.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9414/trunk/dev/object.c
+END
+timeouts.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9544/trunk/dev/timeouts.c
+END
+close.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/8126/trunk/dev/close.h
+END
+view_params.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/8711/trunk/dev/view_params.c
+END
+dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/agar/!svn/ver/9463/trunk/dev/dev.c
+END
+uniconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9253/trunk/dev/uniconv.c
+END
+dev.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/agar/!svn/ver/9294/trunk/dev/dev.h
+END
+browser.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9560/trunk/dev/browser.c
+END

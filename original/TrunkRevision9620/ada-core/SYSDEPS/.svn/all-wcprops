@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/8766/trunk/ada-core/SYSDEPS
+END
+sd-clean
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/8489/trunk/ada-core/SYSDEPS/sd-clean
+END
+sd-cpuhasfeat
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-cpuhasfeat
+END
+sysdep-system
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sysdep-system
+END
+ver_gnat.adb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/ver_gnat.adb
+END
+sd-creates
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-creates
+END
+sd-line
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-line
+END
+sd-osversion
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-osversion
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/agar/!svn/ver/8592/trunk/ada-core/SYSDEPS/README
+END
+sd-status-is
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/agar/!svn/ver/8489/trunk/ada-core/SYSDEPS/sd-status-is
+END
+sd-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-arch.c
+END
+sysdep-compilers
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sysdep-compilers
+END
+sysdep-boot
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/agar/!svn/ver/8489/trunk/ada-core/SYSDEPS/sysdep-boot
+END
+sd-run
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-run
+END
+sd-cpunum
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-cpunum
+END
+sd-cctype.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-cctype.c
+END
+sd-cpul2cache
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-cpul2cache
+END
+sd-status-set
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/agar/!svn/ver/8489/trunk/ada-core/SYSDEPS/sd-status-set
+END
+sysdep-subs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sysdep-subs
+END
+sd-defines
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-defines
+END
+sd-cpul1icache
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-cpul1icache
+END
+sd-locker_win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-locker_win32.c
+END
+sd-locker_posix.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-locker_posix.c
+END
+sd-status
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/8489/trunk/ada-core/SYSDEPS/sd-status
+END
+sd-cpufeat
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-cpufeat
+END
+sd-compile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-compile
+END
+sd-adaversion
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-adaversion
+END
+sd-cpuidx86.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-cpuidx86.c
+END
+sd-configbin
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/agar/!svn/ver/8490/trunk/ada-core/SYSDEPS/sd-configbin
+END
+sysdep-mod-clean
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sysdep-mod-clean
+END
+sd-locker.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-locker.c
+END
+sd-configman
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-configman
+END
+sd-genmk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-genmk
+END
+sd-os.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-os.c
+END
+sysdep-mod-exec
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/8592/trunk/ada-core/SYSDEPS/sysdep-mod-exec
+END
+sd-mk-cpuidx86-h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-mk-cpuidx86-h
+END
+sd-cpufreq
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-cpufreq
+END
+sd-configpkg
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/agar/!svn/ver/8490/trunk/ada-core/SYSDEPS/sd-configpkg
+END
+sd-cpumodel
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-cpumodel
+END
+sd-cpul3cache
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-cpul3cache
+END
+sd-cpul1dcache
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-cpul1dcache
+END
+sd-ccversion.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-ccversion.c
+END
+sd-cpuclinesz
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-cpuclinesz
+END
+sd-file
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-file
+END
+sd-sysinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/sd-sysinfo.h
+END

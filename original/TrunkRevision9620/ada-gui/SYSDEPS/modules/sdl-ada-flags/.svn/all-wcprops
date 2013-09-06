@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/agar/!svn/ver/8766/trunk/ada-gui/SYSDEPS/modules/sdl-ada-flags
+END
+config_bin
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/sdl-ada-flags/config_bin
+END
+desc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/sdl-ada-flags/desc
+END
+sysdepout
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/sdl-ada-flags/sysdepout
+END
+clean
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/sdl-ada-flags/clean
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/sdl-ada-flags/run
+END
+creates
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/sdl-ada-flags/creates
+END
+config_bin_args
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/sdl-ada-flags/config_bin_args
+END

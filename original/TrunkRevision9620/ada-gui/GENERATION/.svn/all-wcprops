@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/8766/trunk/ada-gui/GENERATION
+END
+gen-tests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/7532/trunk/ada-gui/GENERATION/gen-tests.sh
+END
+c_size.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/agar/!svn/ver/7688/trunk/ada-gui/GENERATION/c_size.sh
+END
+packages.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/agar/!svn/ver/7577/trunk/ada-gui/GENERATION/packages.sh
+END
+bindings_spec.lua
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/agar/!svn/ver/7682/trunk/ada-gui/GENERATION/bindings_spec.lua
+END
+ada_size.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/agar/!svn/ver/7608/trunk/ada-gui/GENERATION/ada_size.sh
+END
+bindings_body.lua
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/agar/!svn/ver/7682/trunk/ada-gui/GENERATION/bindings_body.lua
+END
+widget.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/agar/!svn/ver/7560/trunk/ada-gui/GENERATION/widget.sh
+END
+types-map.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/7897/trunk/ada-gui/GENERATION/types-map.txt
+END
+dot-graph.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/7532/trunk/ada-gui/GENERATION/dot-graph.sh
+END
+scrollbar.lua
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/7656/trunk/ada-gui/GENERATION/scrollbar.lua
+END
+types-c-size.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/7577/trunk/ada-gui/GENERATION/types-c-size.sh
+END
+types-ada-size.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/agar/!svn/ver/7608/trunk/ada-gui/GENERATION/types-ada-size.sh
+END
+regen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/agar/!svn/ver/7608/trunk/ada-gui/GENERATION/regen.sh
+END
+generics.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/7608/trunk/ada-gui/GENERATION/generics.txt
+END
+types-ada-size.lua
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/agar/!svn/ver/7608/trunk/ada-gui/GENERATION/types-ada-size.lua
+END
+bindings_c.lua
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/8094/trunk/ada-gui/GENERATION/bindings_c.lua
+END

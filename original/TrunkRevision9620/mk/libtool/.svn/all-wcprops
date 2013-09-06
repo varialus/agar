@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/8780/trunk/mk/libtool
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/agar/!svn/ver/8780/trunk/mk/libtool/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/8780/trunk/mk/libtool/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/8780/trunk/mk/libtool/ltmain.sh
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/8780/trunk/mk/libtool/configure
+END
+ltconfig
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8780/trunk/mk/libtool/ltconfig
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/agar/!svn/ver/5148/trunk/mk/libtool/configure.in
+END

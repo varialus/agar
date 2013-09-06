@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/8766/trunk/ada-demos/SYSDEPS
+END
+sd-cpufreq
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-cpufreq
+END
+sd-configpkg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-configpkg
+END
+sd-cpumodel
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-cpumodel
+END
+sd-cpul3cache
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-cpul3cache
+END
+sd-cpul1dcache
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-cpul1dcache
+END
+sd-ccversion.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-ccversion.c
+END
+sd-cpuclinesz
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-cpuclinesz
+END
+sd-file
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-file
+END
+sd-cpuhasfeat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-cpuhasfeat
+END
+ver_gnat.adb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/agar/!svn/ver/7978/trunk/ada-demos/SYSDEPS/ver_gnat.adb
+END
+sd-creates
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-creates
+END
+sd-line
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-line
+END
+sd-osversion
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-osversion
+END
+sd-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-arch.c
+END
+sd-cpunum
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-cpunum
+END
+sd-cctype.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-cctype.c
+END
+sd-cpul2cache
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-cpul2cache
+END
+sd-defines
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-defines
+END
+sysdep-subs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/agar/!svn/ver/7978/trunk/ada-demos/SYSDEPS/sysdep-subs
+END
+sd-cpul1icache
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-cpul1icache
+END
+conf-outdir
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/conf-outdir
+END
+sysdep-main
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/agar/!svn/ver/7738/trunk/ada-demos/SYSDEPS/sysdep-main
+END
+sd-cpufeat
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-cpufeat
+END
+sd-fatal
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-fatal
+END
+sd-error
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-error
+END
+sd-cpuidx86.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-cpuidx86.c
+END
+sd-adaversion
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/7738/trunk/ada-demos/SYSDEPS/sd-adaversion
+END
+sd-info
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-info
+END
+sd-configbin
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-configbin
+END
+sd-configman
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-configman
+END
+sd-genmk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-genmk
+END
+sd-os.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/sd-os.c
+END

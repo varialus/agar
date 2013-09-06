@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/agar/!svn/ver/8766/trunk/ada-demos/SYSDEPS/modules/sdl-image-libs
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/agar/!svn/ver/7689/trunk/ada-demos/SYSDEPS/modules/sdl-image-libs/run
+END
+creates
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/agar/!svn/ver/7689/trunk/ada-demos/SYSDEPS/modules/sdl-image-libs/creates
+END
+custom
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/agar/!svn/ver/7689/trunk/ada-demos/SYSDEPS/modules/sdl-image-libs/custom
+END
+desc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/agar/!svn/ver/7689/trunk/ada-demos/SYSDEPS/modules/sdl-image-libs/desc
+END
+clean
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/agar/!svn/ver/7689/trunk/ada-demos/SYSDEPS/modules/sdl-image-libs/clean
+END

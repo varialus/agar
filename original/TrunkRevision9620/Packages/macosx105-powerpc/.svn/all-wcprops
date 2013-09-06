@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/8780/trunk/Packages/macosx105-powerpc
+END
+agar-core-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/agar/!svn/ver/8764/trunk/Packages/macosx105-powerpc/agar-core-config.sh
+END
+agar-rg-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/agar/!svn/ver/8764/trunk/Packages/macosx105-powerpc/agar-rg-config.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/agar/!svn/ver/8780/trunk/Packages/macosx105-powerpc/Makefile
+END
+agar-math-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/agar/!svn/ver/8764/trunk/Packages/macosx105-powerpc/agar-math-config.sh
+END
+agar-vg-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/agar/!svn/ver/8764/trunk/Packages/macosx105-powerpc/agar-vg-config.sh
+END
+agar-dev-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/agar/!svn/ver/8764/trunk/Packages/macosx105-powerpc/agar-dev-config.sh
+END
+README.MacOSX
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/agar/!svn/ver/7940/trunk/Packages/macosx105-powerpc/README.MacOSX
+END
+agar-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/agar/!svn/ver/8764/trunk/Packages/macosx105-powerpc/agar-config.sh
+END

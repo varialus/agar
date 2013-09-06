@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9514/trunk/tests/agarreinit
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/9511/trunk/tests/agarreinit/configure
+END
+agarreinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/agar/!svn/ver/9514/trunk/tests/agarreinit/agarreinit.c
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/agar/!svn/ver/9511/trunk/tests/agarreinit/configure.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/9511/trunk/tests/agarreinit/Makefile
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/9510/trunk/tests/agarcplusplus
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/agar/!svn/ver/9510/trunk/tests/agarcplusplus/Makefile
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/agar/!svn/ver/9510/trunk/tests/agarcplusplus/configure
+END
+agarcplusplus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/agar/!svn/ver/9510/trunk/tests/agarcplusplus/agarcplusplus.cpp
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/9510/trunk/tests/agarcplusplus/configure.in
+END

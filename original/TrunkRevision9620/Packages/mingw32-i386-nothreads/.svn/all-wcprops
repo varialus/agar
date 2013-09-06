@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/9024/trunk/Packages/mingw32-i386-nothreads
+END
+agar-core-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/agar/!svn/ver/8764/trunk/Packages/mingw32-i386-nothreads/agar-core-config.sh
+END
+agar-rg-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/agar/!svn/ver/8764/trunk/Packages/mingw32-i386-nothreads/agar-rg-config.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/agar/!svn/ver/9024/trunk/Packages/mingw32-i386-nothreads/Makefile
+END
+agar-math-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/agar/!svn/ver/8764/trunk/Packages/mingw32-i386-nothreads/agar-math-config.sh
+END
+agar-vg-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/agar/!svn/ver/8764/trunk/Packages/mingw32-i386-nothreads/agar-vg-config.sh
+END
+README.MinGW32
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/agar/!svn/ver/7952/trunk/Packages/mingw32-i386-nothreads/README.MinGW32
+END
+agar-dev-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/agar/!svn/ver/8764/trunk/Packages/mingw32-i386-nothreads/agar-dev-config.sh
+END
+agar-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/agar/!svn/ver/8764/trunk/Packages/mingw32-i386-nothreads/agar-config.sh
+END

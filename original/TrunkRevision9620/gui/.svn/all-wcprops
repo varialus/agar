@@ -1,0 +1,1505 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/agar/!svn/ver/9620/trunk/gui
+END
+icon.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/9407/trunk/gui/icon.h
+END
+drv_mw.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9554/trunk/gui/drv_mw.c
+END
+iconmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9237/trunk/gui/iconmgr.c
+END
+combo.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9396/trunk/gui/combo.c
+END
+drv_mw.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9554/trunk/gui/drv_mw.h
+END
+iconmgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/8447/trunk/gui/iconmgr.h
+END
+combo.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/8364/trunk/gui/combo.h
+END
+keysyms.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/5923/trunk/gui/keysyms.c
+END
+close.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/8126/trunk/gui/close.h
+END
+primitive.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9609/trunk/gui/primitive.h
+END
+AG_Checkbox.3
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9256/trunk/gui/AG_Checkbox.3
+END
+file_selector.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/9453/trunk/gui/file_selector.c
+END
+load_png.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9237/trunk/gui/load_png.c
+END
+file_selector.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/9142/trunk/gui/file_selector.h
+END
+ucombo.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9396/trunk/gui/ucombo.c
+END
+fonts_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/6666/trunk/gui/fonts_data.h
+END
+sdl.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/agar/!svn/ver/9071/trunk/gui/sdl.h
+END
+stylesheet.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9614/trunk/gui/stylesheet.c
+END
+ucombo.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/7899/trunk/gui/ucombo.h
+END
+AG_DirDlg.3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9617/trunk/gui/AG_DirDlg.3
+END
+AG_FileDlg.3
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9617/trunk/gui/AG_FileDlg.3
+END
+glview.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9407/trunk/gui/glview.c
+END
+ttf.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/agar/!svn/ver/9321/trunk/gui/ttf.c
+END
+stylesheet.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9488/trunk/gui/stylesheet.h
+END
+mpane.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9563/trunk/gui/mpane.c
+END
+treetbl.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9563/trunk/gui/treetbl.c
+END
+glview.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9167/trunk/gui/glview.h
+END
+ttf.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/agar/!svn/ver/9320/trunk/gui/ttf.h
+END
+drv_glx_keymaps.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/9237/trunk/gui/drv_glx_keymaps.h
+END
+mpane.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/7899/trunk/gui/mpane.h
+END
+treetbl.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9407/trunk/gui/treetbl.h
+END
+window.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9601/trunk/gui/window.c
+END
+text_cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9453/trunk/gui/text_cache.c
+END
+AG_Slider.3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9431/trunk/gui/AG_Slider.3
+END
+editable.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9609/trunk/gui/editable.c
+END
+AG_MouseButton.3
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/8631/trunk/gui/AG_MouseButton.3
+END
+window.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9601/trunk/gui/window.h
+END
+text_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9453/trunk/gui/text_cache.h
+END
+editable.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9453/trunk/gui/editable.h
+END
+.manlinks.mk
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9558/trunk/gui/.manlinks.mk
+END
+vbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/7899/trunk/gui/vbox.h
+END
+AG_Pixmap.3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9617/trunk/gui/AG_Pixmap.3
+END
+AG_Radio.3
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9256/trunk/gui/AG_Radio.3
+END
+AG_DriverMw.3
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9528/trunk/gui/AG_DriverMw.3
+END
+AG_Tlist.3
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9617/trunk/gui/AG_Tlist.3
+END
+socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9563/trunk/gui/socket.c
+END
+surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9619/trunk/gui/surface.c
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/7899/trunk/gui/socket.h
+END
+surface.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9619/trunk/gui/surface.h
+END
+keymap_latin1.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8391/trunk/gui/keymap_latin1.c
+END
+drv_wgl_keymaps.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/9516/trunk/gui/drv_wgl_keymaps.h
+END
+drv_sw.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9601/trunk/gui/drv_sw.c
+END
+spinbutton.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9563/trunk/gui/spinbutton.c
+END
+fixed_plotter.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/9563/trunk/gui/fixed_plotter.c
+END
+drv_sw.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9601/trunk/gui/drv_sw.h
+END
+icons_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/7145/trunk/gui/icons_data.h
+END
+spinbutton.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9142/trunk/gui/spinbutton.h
+END
+AG_Widget.3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9609/trunk/gui/AG_Widget.3
+END
+button.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9610/trunk/gui/button.c
+END
+fixed_plotter.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8447/trunk/gui/fixed_plotter.h
+END
+objsel.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/8447/trunk/gui/objsel.c
+END
+AG_Table.3
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9617/trunk/gui/AG_Table.3
+END
+input_device.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9237/trunk/gui/input_device.c
+END
+button.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9530/trunk/gui/button.h
+END
+AG_Scrollview.3
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/9256/trunk/gui/AG_Scrollview.3
+END
+objsel.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9184/trunk/gui/objsel.h
+END
+input_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/8396/trunk/gui/input_device.h
+END
+AG_Rect.3
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9083/trunk/gui/AG_Rect.3
+END
+AG_GLView.3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9617/trunk/gui/AG_GLView.3
+END
+scrollview.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9563/trunk/gui/scrollview.c
+END
+begin.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/8921/trunk/gui/begin.h
+END
+AG_Units.3
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9617/trunk/gui/AG_Units.3
+END
+drv.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/agar/!svn/ver/9558/trunk/gui/drv.c
+END
+geometry.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9237/trunk/gui/geometry.c
+END
+textbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9453/trunk/gui/textbox.c
+END
+AG_DriverGLX.3
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9506/trunk/gui/AG_DriverGLX.3
+END
+scrollview.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/7899/trunk/gui/scrollview.h
+END
+fixed.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9453/trunk/gui/fixed.c
+END
+AG_Editable.3
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9617/trunk/gui/AG_Editable.3
+END
+drv.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/agar/!svn/ver/9585/trunk/gui/drv.h
+END
+AG_FixedPlotter.3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/9256/trunk/gui/AG_FixedPlotter.3
+END
+geometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9453/trunk/gui/geometry.h
+END
+time_sdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/8461/trunk/gui/time_sdl.c
+END
+graph.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9563/trunk/gui/graph.c
+END
+textbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9453/trunk/gui/textbox.h
+END
+fixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/7899/trunk/gui/fixed.h
+END
+drv_glx.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9572/trunk/gui/drv_glx.c
+END
+hbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/7899/trunk/gui/hbox.h
+END
+titlebar.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9453/trunk/gui/titlebar.c
+END
+AG_Label.3
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9459/trunk/gui/AG_Label.3
+END
+graph.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/8616/trunk/gui/graph.h
+END
+widget_legacy.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/9563/trunk/gui/widget_legacy.c
+END
+statusbar.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9329/trunk/gui/statusbar.c
+END
+drv_cocoa.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9565/trunk/gui/drv_cocoa.m
+END
+AG_Pane.3
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9256/trunk/gui/AG_Pane.3
+END
+titlebar.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/7899/trunk/gui/titlebar.h
+END
+AG_UCombo.3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9256/trunk/gui/AG_UCombo.3
+END
+widget_legacy.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8418/trunk/gui/widget_legacy.h
+END
+statusbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9329/trunk/gui/statusbar.h
+END
+mspinbutton.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9563/trunk/gui/mspinbutton.c
+END
+file_dlg_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/9232/trunk/gui/file_dlg_common.h
+END
+AG_GlobalKeys.3
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8588/trunk/gui/AG_GlobalKeys.3
+END
+drv_gl_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/9326/trunk/gui/drv_gl_common.c
+END
+AG_WidgetPrimitives.3
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/9453/trunk/gui/AG_WidgetPrimitives.3
+END
+mspinbutton.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9142/trunk/gui/mspinbutton.h
+END
+AG_Treetbl.3
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9256/trunk/gui/AG_Treetbl.3
+END
+mouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9453/trunk/gui/mouse.c
+END
+drv_gl_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/9326/trunk/gui/drv_gl_common.h
+END
+AG_DriverSw.3
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9550/trunk/gui/AG_DriverSw.3
+END
+AG_DriverWGL.3
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9506/trunk/gui/AG_DriverWGL.3
+END
+hsvpal.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9563/trunk/gui/hsvpal.c
+END
+mouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/8654/trunk/gui/mouse.h
+END
+menu_view.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9563/trunk/gui/menu_view.c
+END
+colors.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9609/trunk/gui/colors.c
+END
+toolbar.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9558/trunk/gui/toolbar.c
+END
+console.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9609/trunk/gui/console.c
+END
+gui_math.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/7899/trunk/gui/gui_math.h
+END
+hsvpal.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9184/trunk/gui/hsvpal.h
+END
+icons.agt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/7145/trunk/gui/icons.agt
+END
+drv_wgl.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9570/trunk/gui/drv_wgl.c
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9501/trunk/gui/Makefile.inc
+END
+colors.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9609/trunk/gui/colors.h
+END
+font_selector.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/9453/trunk/gui/font_selector.c
+END
+toolbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/8607/trunk/gui/toolbar.h
+END
+console.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9606/trunk/gui/console.h
+END
+AG_DriverSDLGL.3
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/9506/trunk/gui/AG_DriverSDLGL.3
+END
+AG_Text.3
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9586/trunk/gui/AG_Text.3
+END
+font_selector.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/7996/trunk/gui/font_selector.h
+END
+AG_Box.3
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9498/trunk/gui/AG_Box.3
+END
+AG_Surface.3
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9620/trunk/gui/AG_Surface.3
+END
+numerical.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9611/trunk/gui/numerical.c
+END
+AG_KeyMod.3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/8424/trunk/gui/AG_KeyMod.3
+END
+notebook.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9615/trunk/gui/notebook.c
+END
+icons.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/8447/trunk/gui/icons.h
+END
+AG_Driver.3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9558/trunk/gui/AG_Driver.3
+END
+debugger.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9558/trunk/gui/debugger.c
+END
+AG_HSVPal.3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9256/trunk/gui/AG_HSVPal.3
+END
+numerical.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9432/trunk/gui/numerical.h
+END
+notebook.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9466/trunk/gui/notebook.h
+END
+AG_Combo.3
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9259/trunk/gui/AG_Combo.3
+END
+AG_MPane.3
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9256/trunk/gui/AG_MPane.3
+END
+AG_DriverCocoa.3
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/9549/trunk/gui/AG_DriverCocoa.3
+END
+AG_Menu.3
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9571/trunk/gui/AG_Menu.3
+END
+global_keys.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9237/trunk/gui/global_keys.c
+END
+nlunits.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9523/trunk/gui/nlunits.c
+END
+AG_Titlebar.3
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9256/trunk/gui/AG_Titlebar.3
+END
+AG_DriverSDLFB.3
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/9487/trunk/gui/AG_DriverSDLFB.3
+END
+fonts.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/7899/trunk/gui/fonts.h
+END
+radio.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9563/trunk/gui/radio.c
+END
+AG_Window.3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9601/trunk/gui/AG_Window.3
+END
+tlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9609/trunk/gui/tlist.c
+END
+gui_pub.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9237/trunk/gui/gui_pub.h
+END
+AG_BlendFn.3
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/8400/trunk/gui/AG_BlendFn.3
+END
+separator.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9453/trunk/gui/separator.c
+END
+cursors.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9563/trunk/gui/cursors.c
+END
+radio.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9322/trunk/gui/radio.h
+END
+tlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9407/trunk/gui/tlist.h
+END
+dir_dlg.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9522/trunk/gui/dir_dlg.c
+END
+separator.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/7899/trunk/gui/separator.h
+END
+cursors.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/8580/trunk/gui/cursors.h
+END
+AG_Numerical.3
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9431/trunk/gui/AG_Numerical.3
+END
+AG_KeySym.3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9182/trunk/gui/AG_KeySym.3
+END
+dir_dlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9082/trunk/gui/dir_dlg.h
+END
+AG_Anim.3
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/8969/trunk/gui/AG_Anim.3
+END
+load_xcf.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9237/trunk/gui/load_xcf.c
+END
+AG_Socket.3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9617/trunk/gui/AG_Socket.3
+END
+AG_Icon.3
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9617/trunk/gui/AG_Icon.3
+END
+slider.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9563/trunk/gui/slider.c
+END
+pane.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/9453/trunk/gui/pane.c
+END
+scrollbar.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9563/trunk/gui/scrollbar.c
+END
+load_xcf.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/7899/trunk/gui/load_xcf.h
+END
+AG_InitVideoSDL.3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/9554/trunk/gui/AG_InitVideoSDL.3
+END
+gui.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/agar/!svn/ver/9609/trunk/gui/gui.c
+END
+AG_Textbox.3
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9617/trunk/gui/AG_Textbox.3
+END
+load_surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9620/trunk/gui/load_surface.c
+END
+AG_Separator.3
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9256/trunk/gui/AG_Separator.3
+END
+table.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9603/trunk/gui/table.c
+END
+slider.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9431/trunk/gui/slider.h
+END
+pane.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/9184/trunk/gui/pane.h
+END
+mfspinbutton.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9563/trunk/gui/mfspinbutton.c
+END
+scrollbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9438/trunk/gui/scrollbar.h
+END
+box.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/agar/!svn/ver/9563/trunk/gui/box.c
+END
+gui.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/agar/!svn/ver/9591/trunk/gui/gui.h
+END
+load_surface.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9620/trunk/gui/load_surface.h
+END
+table.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9603/trunk/gui/table.h
+END
+mfspinbutton.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9415/trunk/gui/mfspinbutton.h
+END
+box.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/agar/!svn/ver/9498/trunk/gui/box.h
+END
+AG_CustomEventLoop.3
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/9558/trunk/gui/AG_CustomEventLoop.3
+END
+pixmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9043/trunk/gui/pixmap.c
+END
+drv_wgl_prwincmd.inc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/9599/trunk/gui/drv_wgl_prwincmd.inc
+END
+keyboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9563/trunk/gui/keyboard.c
+END
+units.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9523/trunk/gui/units.c
+END
+AG_Button.3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9530/trunk/gui/AG_Button.3
+END
+pixmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9577/trunk/gui/pixmap.h
+END
+keyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9185/trunk/gui/keyboard.h
+END
+AG_Color.3
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9453/trunk/gui/AG_Color.3
+END
+AG_VBox.3
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9256/trunk/gui/AG_VBox.3
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9612/trunk/gui/style.css
+END
+units.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9523/trunk/gui/units.h
+END
+AG_Notebook.3
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9453/trunk/gui/AG_Notebook.3
+END
+AG_Scrollbar.3
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9431/trunk/gui/AG_Scrollbar.3
+END
+AG_InitGraphics.3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/9558/trunk/gui/AG_InitGraphics.3
+END
+load_jpg.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9237/trunk/gui/load_jpg.c
+END
+label.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9465/trunk/gui/label.c
+END
+drv_sdlgl.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9563/trunk/gui/drv_sdlgl.c
+END
+AG_Dummy.3
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9256/trunk/gui/AG_Dummy.3
+END
+widget.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9613/trunk/gui/widget.c
+END
+text.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/9592/trunk/gui/text.c
+END
+label.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9453/trunk/gui/label.h
+END
+checkbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9563/trunk/gui/checkbox.c
+END
+progress_bar.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9453/trunk/gui/progress_bar.c
+END
+widget.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9609/trunk/gui/widget.h
+END
+AG_GL.3
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9326/trunk/gui/AG_GL.3
+END
+text.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/9587/trunk/gui/text.h
+END
+packedpixel.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9233/trunk/gui/packedpixel.c
+END
+AG_Console.3
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9453/trunk/gui/AG_Console.3
+END
+AG_Toolbar.3
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9259/trunk/gui/AG_Toolbar.3
+END
+checkbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9453/trunk/gui/checkbox.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9609/trunk/gui/Makefile
+END
+progress_bar.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9413/trunk/gui/progress_bar.h
+END
+packedpixel.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9237/trunk/gui/packedpixel.h
+END
+AG_FontSelector.3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/9256/trunk/gui/AG_FontSelector.3
+END
+AG_Cursor.3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/8582/trunk/gui/AG_Cursor.3
+END
+menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/9453/trunk/gui/menu.c
+END
+drv_sdlfb.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9558/trunk/gui/drv_sdlfb.c
+END
+drv_sdl_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/9563/trunk/gui/drv_sdl_common.c
+END
+file_dlg.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9563/trunk/gui/file_dlg.c
+END
+menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/9500/trunk/gui/menu.h
+END
+drv_sdl_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/9563/trunk/gui/drv_sdl_common.h
+END
+file_dlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9492/trunk/gui/file_dlg.h
+END
+drv_cocoa_keymap.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/9183/trunk/gui/drv_cocoa_keymap.h
+END
+keymap_compose.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/9237/trunk/gui/keymap_compose.c
+END
+fspinbutton.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9563/trunk/gui/fspinbutton.c
+END
+AG_SizeSpec.3
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/7822/trunk/gui/AG_SizeSpec.3
+END
+load_color.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9237/trunk/gui/load_color.c
+END
+load_bmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9618/trunk/gui/load_bmp.c
+END
+AG_GuiDebugger.3
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/8324/trunk/gui/AG_GuiDebugger.3
+END
+AG_ProgressBar.3
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/9413/trunk/gui/AG_ProgressBar.3
+END
+fspinbutton.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9142/trunk/gui/fspinbutton.h
+END
+load_color.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/8447/trunk/gui/load_color.h
+END
+anim.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/9237/trunk/gui/anim.c
+END
+keymap.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9237/trunk/gui/keymap.c
+END
+AG_Fixed.3
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9617/trunk/gui/AG_Fixed.3
+END
+AG_Keyboard.3
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9185/trunk/gui/AG_Keyboard.3
+END
+AG_HBox.3
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9256/trunk/gui/AG_HBox.3
+END
+icon.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/9602/trunk/gui/icon.c
+END
+AG_Graph.3
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9256/trunk/gui/AG_Graph.3
+END
+opengl.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9526/trunk/gui/opengl.h
+END
+anim.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/9237/trunk/gui/anim.h
+END
+keymap.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9237/trunk/gui/keymap.h
+END

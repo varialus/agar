@@ -1,0 +1,815 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/agar/!svn/ver/9617/trunk/core
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/8215/trunk/core/sha1.h
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9478/trunk/core/getopt.c
+END
+snprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9192/trunk/core/snprintf.c
+END
+core_pub.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9407/trunk/core/core_pub.h
+END
+net_winsock1.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/9563/trunk/core/net_winsock1.c
+END
+class.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9588/trunk/core/class.c
+END
+AG_User.3
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9578/trunk/core/AG_User.3
+END
+btree.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/7982/trunk/core/btree.h
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/8576/trunk/core/getopt.h
+END
+win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9273/trunk/core/win32.h
+END
+snprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9096/trunk/core/snprintf.h
+END
+time_dummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9407/trunk/core/time_dummy.c
+END
+class.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/8615/trunk/core/class.h
+END
+net_bsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9563/trunk/core/net_bsd.c
+END
+AG_Intro.3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9407/trunk/core/AG_Intro.3
+END
+AG_Time.3
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9520/trunk/core/AG_Time.3
+END
+core.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9557/trunk/core/core.c
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9357/trunk/core/error.c
+END
+AG_CPUInfo.3
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/8008/trunk/core/AG_CPUInfo.3
+END
+core.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9407/trunk/core/core.h
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9244/trunk/core/error.h
+END
+time_gettimeofday.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/9407/trunk/core/time_gettimeofday.c
+END
+AG_List.3
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/8375/trunk/core/AG_List.3
+END
+rmd160.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/8583/trunk/core/rmd160.c
+END
+rmd160.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/8215/trunk/core/rmd160.h
+END
+.manlinks.mk
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9407/trunk/core/.manlinks.mk
+END
+close_attributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/agar/!svn/ver/9226/trunk/core/close_attributes.h
+END
+AG_Error.3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9239/trunk/core/AG_Error.3
+END
+event.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9600/trunk/core/event.c
+END
+event.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9557/trunk/core/event.h
+END
+load_real.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9415/trunk/core/load_real.h
+END
+AG_Limits.3
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/7476/trunk/core/AG_Limits.3
+END
+db_bdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9212/trunk/core/db_bdb.c
+END
+net_winsock2.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/9563/trunk/core/net_winsock2.c
+END
+limits.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9415/trunk/core/limits.h
+END
+AG_Event.3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9475/trunk/core/AG_Event.3
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9482/trunk/core/types.h
+END
+db_mysql.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9192/trunk/core/db_mysql.c
+END
+dbobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/8583/trunk/core/dbobject.c
+END
+AG_Core.3
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9557/trunk/core/AG_Core.3
+END
+time_win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9407/trunk/core/time_win32.c
+END
+dbobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/8262/trunk/core/dbobject.h
+END
+tbl.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/9588/trunk/core/tbl.c
+END
+db.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/agar/!svn/ver/9091/trunk/core/db.c
+END
+AG_ByteSwap.3
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/7430/trunk/core/AG_ByteSwap.3
+END
+tbl.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/8376/trunk/core/tbl.h
+END
+db.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/agar/!svn/ver/9119/trunk/core/db.h
+END
+tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/8358/trunk/core/tree.c
+END
+tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/8358/trunk/core/tree.h
+END
+load_integral.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/9415/trunk/core/load_integral.h
+END
+vasprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9522/trunk/core/vasprintf.c
+END
+dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/8898/trunk/core/dir.c
+END
+xbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/8898/trunk/core/xbox.c
+END
+prop.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9563/trunk/core/prop.c
+END
+AG_Threads.3
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9544/trunk/core/AG_Threads.3
+END
+vasprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9096/trunk/core/vasprintf.h
+END
+dir.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/7899/trunk/core/dir.h
+END
+exec.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9573/trunk/core/exec.c
+END
+xbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/8916/trunk/core/xbox.h
+END
+dso.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/9357/trunk/core/dso.c
+END
+timeout.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9557/trunk/core/timeout.c
+END
+net.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/9563/trunk/core/net.c
+END
+exec.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9573/trunk/core/exec.h
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/8615/trunk/core/queue.h
+END
+dso.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/9357/trunk/core/dso.h
+END
+net.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/9596/trunk/core/net.h
+END
+AG_Object.3
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9617/trunk/core/AG_Object.3
+END
+AG_String.3
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9400/trunk/core/AG_String.3
+END
+close_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9482/trunk/core/close_types.h
+END
+string_strcasecmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/9329/trunk/core/string_strcasecmp.h
+END
+user_posix.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9361/trunk/core/user_posix.c
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9501/trunk/core/Makefile.inc
+END
+object.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9608/trunk/core/object.c
+END
+string.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9408/trunk/core/string.c
+END
+AG_Timer.3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9544/trunk/core/AG_Timer.3
+END
+close.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/8126/trunk/core/close.h
+END
+AG_Queue.3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/8615/trunk/core/AG_Queue.3
+END
+object.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9440/trunk/core/object.h
+END
+string.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9329/trunk/core/string.h
+END
+AG_DSO.3
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/7980/trunk/core/AG_DSO.3
+END
+AG_Version.3
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/6741/trunk/core/AG_Version.3
+END
+time_posix.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9544/trunk/core/time_posix.c
+END
+core_close.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/8753/trunk/core/core_close.h
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/8583/trunk/core/md5.c
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/8215/trunk/core/md5.h
+END
+threads.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9541/trunk/core/threads.h
+END
+net_dummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9200/trunk/core/net_dummy.c
+END
+cpuinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9243/trunk/core/cpuinfo.c
+END
+load_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9202/trunk/core/load_string.c
+END
+cpuinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9347/trunk/core/cpuinfo.h
+END
+AG_Tbl.3
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/8376/trunk/core/AG_Tbl.3
+END
+load_string.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/8264/trunk/core/load_string.h
+END
+AG_Variable.3
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9414/trunk/core/AG_Variable.3
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9556/trunk/core/file.c
+END
+AG_DataSource.3
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/9250/trunk/core/AG_DataSource.3
+END
+file.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9556/trunk/core/file.h
+END
+load_version.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/9202/trunk/core/load_version.c
+END
+asprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9102/trunk/core/asprintf.c
+END
+data_source.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9484/trunk/core/data_source.c
+END
+vsnprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9096/trunk/core/vsnprintf.c
+END
+load_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/7899/trunk/core/load_version.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9407/trunk/core/version.h
+END
+asprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9096/trunk/core/asprintf.h
+END
+iso639-gen.pl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9089/trunk/core/iso639-gen.pl
+END
+AG_Config.3
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9248/trunk/core/AG_Config.3
+END
+data_source.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9272/trunk/core/data_source.h
+END
+vsnprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9096/trunk/core/vsnprintf.h
+END
+byteswap.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9415/trunk/core/byteswap.h
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9608/trunk/core/config.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9234/trunk/core/config.h
+END
+AG_Db.3
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9119/trunk/core/AG_Db.3
+END
+user.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9232/trunk/core/user.c
+END
+core_init.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9608/trunk/core/core_init.h
+END
+dummy_object.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/9214/trunk/core/dummy_object.c
+END
+user.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9578/trunk/core/user.h
+END
+text.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9447/trunk/core/text.c
+END
+dummy_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/9214/trunk/core/dummy_object.h
+END
+text.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9447/trunk/core/text.h
+END
+begin.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/8921/trunk/core/begin.h
+END
+attributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9226/trunk/core/attributes.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9576/trunk/core/Makefile
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9407/trunk/core/time.c
+END
+core_begin.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9089/trunk/core/core_begin.h
+END
+time.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9544/trunk/core/time.h
+END
+AG_File.3
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9557/trunk/core/AG_File.3
+END
+user_xbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9232/trunk/core/user_xbox.c
+END
+queue_close.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/8615/trunk/core/queue_close.h
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/8583/trunk/core/list.h
+END
+time_renderer.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/9407/trunk/core/time_renderer.c
+END
+variable.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9563/trunk/core/variable.c
+END
+AG_Execute.3
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9407/trunk/core/AG_Execute.3
+END
+user_dummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9306/trunk/core/user_dummy.c
+END
+AG_Getopt.3
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/8674/trunk/core/AG_Getopt.3
+END
+variable.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9448/trunk/core/variable.h
+END
+sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/8583/trunk/core/sha1.c
+END

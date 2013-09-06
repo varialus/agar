@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/agar/!svn/ver/9512/trunk/au
+END
+close.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/8978/trunk/au/close.h
+END
+.manlinks.mk
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9059/trunk/au/.manlinks.mk
+END
+au_pub.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9000/trunk/au/au_pub.h
+END
+au_math.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/8978/trunk/au/au_math.h
+END
+au_dev_pa.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9242/trunk/au/au_dev_pa.c
+END
+AU.3
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/agar/!svn/ver/9004/trunk/au/AU.3
+END
+au_wave.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9000/trunk/au/au_wave.c
+END
+begin.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/8978/trunk/au/begin.h
+END
+au_dev_out.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9512/trunk/au/au_dev_out.c
+END
+au_wave.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/8978/trunk/au/au_wave.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9501/trunk/au/Makefile
+END
+au_init.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/8978/trunk/au/au_init.h
+END
+au_dev_out.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9004/trunk/au/au_dev_out.h
+END
+au_dev_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9242/trunk/au/au_dev_file.c
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9501/trunk/au/Makefile.inc
+END
+au.c
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/agar/!svn/ver/9294/trunk/au/au.c
+END

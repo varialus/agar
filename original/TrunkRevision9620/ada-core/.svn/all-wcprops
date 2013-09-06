@@ -1,0 +1,581 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/agar/!svn/ver/8780/trunk/ada-core
+END
+agar-core.apk
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/8488/trunk/ada-core/agar-core.apk
+END
+conf-repos
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8488/trunk/ada-core/conf-repos
+END
+cc-compile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8488/trunk/ada-core/cc-compile
+END
+postinstall
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/8488/trunk/ada-core/postinstall
+END
+agar-core-error.adb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-error.adb
+END
+ada-srcmap-all
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/agar/!svn/ver/8488/trunk/ada-core/ada-srcmap-all
+END
+gnat.adc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/8488/trunk/ada-core/gnat.adc
+END
+agar.ads
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/8488/trunk/ada-core/agar.ads
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/8595/trunk/ada-core/LICENSE
+END
+agar.apk
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/8488/trunk/ada-core/agar.apk
+END
+agar-core-init.adb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-init.adb
+END
+mk-mk-ctxt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8488/trunk/ada-core/mk-mk-ctxt
+END
+agar-core-error.ads
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-error.ads
+END
+agar-core-error.apk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-error.apk
+END
+agar-core-event.adb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-event.adb
+END
+agar-core-ada-conf.ld
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-ada-conf.ld
+END
+mk-ldtype
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/8488/trunk/ada-core/mk-ldtype
+END
+agar-core-init.ads
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-init.ads
+END
+agar-core-dso.adb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-dso.adb
+END
+ag_event.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8488/trunk/ada-core/ag_event.c
+END
+agar-core-init.apk
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-init.apk
+END
+conf-slibdir
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/8488/trunk/ada-core/conf-slibdir
+END
+cc-slib
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/8488/trunk/ada-core/cc-slib
+END
+agar-core-thin.ads.tbc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-thin.ads.tbc
+END
+install-core.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/agar/!svn/ver/8497/trunk/ada-core/install-core.c
+END
+Mkf-instchk
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/8488/trunk/ada-core/Mkf-instchk
+END
+agar-core-thin.ads.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/agar/!svn/ver/8590/trunk/ada-core/agar-core-thin.ads.sh
+END
+conf-ccfflist
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/8488/trunk/ada-core/conf-ccfflist
+END
+types-sizes.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/8488/trunk/ada-core/types-sizes.c
+END
+Mkf-install
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/8488/trunk/ada-core/Mkf-install
+END
+conf-mkfdirs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/8488/trunk/ada-core/conf-mkfdirs
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/8488/trunk/ada-core/VERSION
+END
+agar-core-event.ads
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-event.ads
+END
+conf-adalink
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/8488/trunk/ada-core/conf-adalink
+END
+install-posix.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/8497/trunk/ada-core/install-posix.c
+END
+agar-core-database.adb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-database.adb
+END
+conf-adacomp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/8488/trunk/ada-core/conf-adacomp
+END
+agar-core-event.apk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-event.apk
+END
+agar-core-dso.ads
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-dso.ads
+END
+conf-bindir
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/8488/trunk/ada-core/conf-bindir
+END
+conf-aldfflist
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/agar/!svn/ver/8593/trunk/ada-core/conf-aldfflist
+END
+install.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/8497/trunk/ada-core/install.h
+END
+conf-fakeroot
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/8488/trunk/ada-core/conf-fakeroot
+END
+agar-core-dso.apk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-dso.apk
+END
+instchk.ld
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8488/trunk/ada-core/instchk.ld
+END
+conf-adaldflags
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/8488/trunk/ada-core/conf-adaldflags
+END
+agar-core-database.ads
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-database.ads
+END
+conf-cc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/8488/trunk/ada-core/conf-cc
+END
+agar-core-thin.apk
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-thin.apk
+END
+agar-core-database.apk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-database.apk
+END
+ada-link
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/8488/trunk/ada-core/ada-link
+END
+mk-systype
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8488/trunk/ada-core/mk-systype
+END
+conf-adabflags
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/agar/!svn/ver/8488/trunk/ada-core/conf-adabflags
+END
+deinstaller.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/8497/trunk/ada-core/deinstaller.c
+END
+install.sld
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/8497/trunk/ada-core/install.sld
+END
+agar-core-config.adb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-config.adb
+END
+agar-core-object.adb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-object.adb
+END
+conf-ldfflist
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/8488/trunk/ada-core/conf-ldfflist
+END
+Mkf-deinstall
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/8488/trunk/ada-core/Mkf-deinstall
+END
+conf-dlibdir
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/8488/trunk/ada-core/conf-dlibdir
+END
+install_os.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/8497/trunk/ada-core/install_os.h
+END
+conf-adabind
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/8488/trunk/ada-core/conf-adabind
+END
+insthier.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8488/trunk/ada-core/insthier.c
+END
+agar-core-config.ads
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-config.ads
+END
+agar-core-object.ads
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-object.ads
+END
+ada-compile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/8488/trunk/ada-core/ada-compile
+END
+agar-core-data_source.adb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-data_source.adb
+END
+ag_dso.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/8488/trunk/ada-core/ag_dso.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/8780/trunk/ada-core/Makefile
+END
+agar-core-config.apk
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-config.apk
+END
+agar-core-thin.ads.mff
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-thin.ads.mff
+END
+agar-core-object.apk
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-object.apk
+END
+installer.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/8497/trunk/ada-core/installer.c
+END
+conf-adafflist
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/agar/!svn/ver/8593/trunk/ada-core/conf-adafflist
+END
+cc-link
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/8488/trunk/ada-core/cc-link
+END
+conf-ld
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/8488/trunk/ada-core/conf-ld
+END
+instchk.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/8497/trunk/ada-core/instchk.c
+END
+install-win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/8497/trunk/ada-core/install-win32.c
+END
+agar-core-ada-conf.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-ada-conf.c
+END
+conf-adacflags
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/agar/!svn/ver/8488/trunk/ada-core/conf-adacflags
+END
+installer.ld
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/8488/trunk/ada-core/installer.ld
+END
+conf-incdir
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/8488/trunk/ada-core/conf-incdir
+END
+mk-cctype
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/8488/trunk/ada-core/mk-cctype
+END
+type-make
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/8488/trunk/ada-core/type-make
+END
+mk-adatype
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8488/trunk/ada-core/mk-adatype
+END
+agar-core-data_source.ads
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-data_source.ads
+END
+types-sizes.ld
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/agar/!svn/ver/8488/trunk/ada-core/types-sizes.ld
+END
+ada-bind
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/8488/trunk/ada-core/ada-bind
+END
+agar-core-data_source.apk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-data_source.apk
+END
+agar-core-ada.sld
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/8488/trunk/ada-core/agar-core-ada.sld
+END
+deinstaller.ld
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/agar/!svn/ver/8488/trunk/ada-core/deinstaller.ld
+END
+Mkf-local
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/8593/trunk/ada-core/Mkf-local
+END
+agar-core.ads
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/8488/trunk/ada-core/agar-core.ads
+END
+check-deps
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8591/trunk/ada-core/check-deps
+END
+ctxt.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/8488/trunk/ada-core/ctxt.h
+END
+ada-srcmap
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8488/trunk/ada-core/ada-srcmap
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/agar/!svn/ver/8766/trunk/ada-gui/SYSDEPS/modules/agar-gui-libs
+END
+clean
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/agar-gui-libs/clean
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/agar-gui-libs/run
+END
+creates
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/agar-gui-libs/creates
+END
+config_bin_args
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/agar-gui-libs/config_bin_args
+END
+config_bin
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/agar-gui-libs/config_bin
+END
+desc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/agar-gui-libs/desc
+END
+sysdepout
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/agar-gui-libs/sysdepout
+END

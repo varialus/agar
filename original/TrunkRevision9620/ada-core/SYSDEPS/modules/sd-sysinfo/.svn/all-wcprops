@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/agar/!svn/ver/8766/trunk/ada-core/SYSDEPS/modules/sd-sysinfo
+END
+defines
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/modules/sd-sysinfo/defines
+END
+sysdeps_bnf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/modules/sd-sysinfo/sysdeps_bnf
+END
+author_url
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/modules/sd-sysinfo/author_url
+END
+version
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/agar/!svn/ver/8592/trunk/ada-core/SYSDEPS/modules/sd-sysinfo/version
+END
+creates
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/modules/sd-sysinfo/creates
+END
+synopsis
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/modules/sd-sysinfo/synopsis
+END
+author_email
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/modules/sd-sysinfo/author_email
+END
+custom
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/modules/sd-sysinfo/custom
+END
+description.ud
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/modules/sd-sysinfo/description.ud
+END

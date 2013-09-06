@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/8766/trunk/ada-gui/SYSDEPS/modules/sysinfo
+END
+creates
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/sysinfo/creates
+END
+custom
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/agar/!svn/ver/7737/trunk/ada-gui/SYSDEPS/modules/sysinfo/custom
+END
+desc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/sysinfo/desc
+END
+clean
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/sysinfo/clean
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/sysinfo/run
+END

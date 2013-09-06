@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/agar/!svn/ver/9501/trunk/vg
+END
+vg_text.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9407/trunk/vg/vg_text.c
+END
+vg_line_tool.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/8663/trunk/vg/vg_line_tool.c
+END
+VG_Arc.3
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/7443/trunk/vg/VG_Arc.3
+END
+vg_point_tool.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/8454/trunk/vg/vg_point_tool.c
+END
+vg_polygon.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/8858/trunk/vg/vg_polygon.c
+END
+vg_text.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9407/trunk/vg/vg_text.h
+END
+VG_View.3
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9355/trunk/vg/VG_View.3
+END
+vg_ortho.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/8454/trunk/vg/vg_ortho.c
+END
+vg_pub.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/8513/trunk/vg/vg_pub.h
+END
+vg_polygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9315/trunk/vg/vg_polygon.h
+END
+vg_math.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/7666/trunk/vg/vg_math.h
+END
+vg_ortho.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/7312/trunk/vg/vg_ortho.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/9501/trunk/vg/Makefile
+END
+vg_circle.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/8454/trunk/vg/vg_circle.c
+END
+vg_arc.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/8454/trunk/vg/vg_arc.c
+END
+vg_circle.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/8819/trunk/vg/vg_circle.h
+END
+VG_Line.3
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9256/trunk/vg/VG_Line.3
+END
+icons.agt
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/8040/trunk/vg/icons.agt
+END
+VG_Point.3
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/7443/trunk/vg/VG_Point.3
+END
+vg_tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/5116/trunk/vg/vg_tables.c
+END
+vg_view.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9485/trunk/vg/vg_view.c
+END
+vg_arc.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/agar/!svn/ver/8819/trunk/vg/vg_arc.h
+END
+vg_select_tool.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8663/trunk/vg/vg_select_tool.c
+END
+vg_tool.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/8454/trunk/vg/vg_tool.c
+END
+close.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/8126/trunk/vg/close.h
+END
+vg_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9355/trunk/vg/vg_view.h
+END
+vg.c
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/agar/!svn/ver/9294/trunk/vg/vg.c
+END
+vg_tool.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9237/trunk/vg/vg_tool.h
+END
+vg_polygon_tool.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/8663/trunk/vg/vg_polygon_tool.c
+END
+icons.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/8040/trunk/vg/icons.h
+END
+vg.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/agar/!svn/ver/8819/trunk/vg/vg.h
+END
+vg_line.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9431/trunk/vg/vg_line.c
+END
+vg_point.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/8454/trunk/vg/vg_point.c
+END
+vg_line.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/8819/trunk/vg/vg_line.h
+END
+begin.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/8921/trunk/vg/begin.h
+END
+vg_point.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/8819/trunk/vg/vg_point.h
+END
+vg_circle_tool.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8663/trunk/vg/vg_circle_tool.c
+END
+VG.3
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/agar/!svn/ver/9259/trunk/vg/VG.3
+END
+vg_proximity_tool.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/9077/trunk/vg/vg_proximity_tool.c
+END
+vg_snap.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/8454/trunk/vg/vg_snap.c
+END
+vg_arc_tool.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/8663/trunk/vg/vg_arc_tool.c
+END
+VG_Text.3
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9407/trunk/vg/VG_Text.3
+END
+vg_tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/8045/trunk/vg/vg_tools.h
+END
+vg_snap.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/7605/trunk/vg/vg_snap.h
+END
+VG_Polygon.3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9256/trunk/vg/VG_Polygon.3
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9501/trunk/vg/Makefile.inc
+END
+tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/8045/trunk/vg/tools.h
+END
+icons_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/8040/trunk/vg/icons_data.h
+END
+vg_text_tool.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/8663/trunk/vg/vg_text_tool.c
+END
+VG_Circle.3
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9256/trunk/vg/VG_Circle.3
+END

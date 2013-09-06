@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/9024/trunk/Packages/mingw32-i386
+END
+agar-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/agar/!svn/ver/8764/trunk/Packages/mingw32-i386/agar-config.sh
+END
+agar-core-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/agar/!svn/ver/8764/trunk/Packages/mingw32-i386/agar-core-config.sh
+END
+agar-rg-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/agar/!svn/ver/8764/trunk/Packages/mingw32-i386/agar-rg-config.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/agar/!svn/ver/9024/trunk/Packages/mingw32-i386/Makefile
+END
+agar-math-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/agar/!svn/ver/8764/trunk/Packages/mingw32-i386/agar-math-config.sh
+END
+agar-vg-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/agar/!svn/ver/8764/trunk/Packages/mingw32-i386/agar-vg-config.sh
+END
+README.MinGW32
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/agar/!svn/ver/7939/trunk/Packages/mingw32-i386/README.MinGW32
+END
+agar-dev-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/agar/!svn/ver/8764/trunk/Packages/mingw32-i386/agar-dev-config.sh
+END

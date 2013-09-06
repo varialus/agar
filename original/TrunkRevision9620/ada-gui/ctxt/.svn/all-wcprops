@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/8766/trunk/ada-gui/ctxt
+END
+version.c.mff
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/7532/trunk/ada-gui/ctxt/version.c.mff
+END
+version.c.tbc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/7532/trunk/ada-gui/ctxt/version.c.tbc
+END
+bindir.c.mff
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/7532/trunk/ada-gui/ctxt/bindir.c.mff
+END
+bindir.c.tbc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/7532/trunk/ada-gui/ctxt/bindir.c.tbc
+END
+incdir.c.mff
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/7532/trunk/ada-gui/ctxt/incdir.c.mff
+END
+incdir.c.tbc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/7532/trunk/ada-gui/ctxt/incdir.c.tbc
+END
+repos.c.mff
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/7532/trunk/ada-gui/ctxt/repos.c.mff
+END
+repos.c.tbc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/7532/trunk/ada-gui/ctxt/repos.c.tbc
+END
+slibdir.c.mff
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/7532/trunk/ada-gui/ctxt/slibdir.c.mff
+END
+slibdir.c.tbc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/7532/trunk/ada-gui/ctxt/slibdir.c.tbc
+END
+dlibdir.c.mff
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/7532/trunk/ada-gui/ctxt/dlibdir.c.mff
+END
+dlibdir.c.tbc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/7532/trunk/ada-gui/ctxt/dlibdir.c.tbc
+END
+ctxt.sld
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/7532/trunk/ada-gui/ctxt/ctxt.sld
+END

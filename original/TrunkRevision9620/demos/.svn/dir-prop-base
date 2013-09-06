@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 72
+Makefile.config
+.depend
+configure.lua
+config.log
+config
+.configurecache
+
+END

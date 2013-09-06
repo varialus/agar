@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/8766/trunk/ada-core/SYSDEPS/modules/agar-libs
+END
+author_url
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/modules/agar-libs/author_url
+END
+version
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/agar/!svn/ver/8592/trunk/ada-core/SYSDEPS/modules/agar-libs/version
+END
+creates
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/modules/agar-libs/creates
+END
+synopsis
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/modules/agar-libs/synopsis
+END
+author_email
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/modules/agar-libs/author_email
+END
+config_bin_args
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/modules/agar-libs/config_bin_args
+END
+description.ud
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/modules/agar-libs/description.ud
+END
+config_bin
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/modules/agar-libs/config_bin
+END
+package_url
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/modules/agar-libs/package_url
+END
+sysdeps_bnf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/agar/!svn/ver/8488/trunk/ada-core/SYSDEPS/modules/agar-libs/sysdeps_bnf
+END

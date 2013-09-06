@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/agar/!svn/ver/9279/trunk/mk
+END
+mkconcurrent.pl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9231/trunk/mk/mkconcurrent.pl
+END
+manlinks.pl
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9034/trunk/mk/manlinks.pl
+END
+gen-declspecs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/7866/trunk/mk/gen-declspecs.pl
+END
+gen-includes.pl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9087/trunk/mk/gen-includes.pl
+END
+gen-dotdepend.pl
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8453/trunk/mk/gen-dotdepend.pl
+END
+agar.m4
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/8298/trunk/mk/agar.m4
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/8780/trunk/mk/config.guess
+END
+agar-logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/6921/trunk/mk/agar-logo.png
+END
+build.subdir.mk
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/8780/trunk/mk/build.subdir.mk
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/8963/trunk/mk/LICENSE.txt
+END
+package.sh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/8780/trunk/mk/package.sh
+END
+build.doc.mk
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/8780/trunk/mk/build.doc.mk
+END
+dist.sh
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/agar/!svn/ver/8951/trunk/mk/dist.sh
+END
+build.proj.mk
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9279/trunk/mk/build.proj.mk
+END
+build.man.mk
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9231/trunk/mk/build.man.mk
+END
+build.po.mk
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/8996/trunk/mk/build.po.mk
+END
+build.common.mk
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9279/trunk/mk/build.common.mk
+END
+mkdep
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/agar/!svn/ver/9231/trunk/mk/mkdep
+END
+srcpkg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/8780/trunk/mk/srcpkg.sh
+END
+README.mk
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/8780/trunk/mk/README.mk
+END
+gen-includelinks.pl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/9087/trunk/mk/gen-includelinks.pl
+END
+get-release.pl
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/8765/trunk/mk/get-release.pl
+END
+install-manpages.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/9002/trunk/mk/install-manpages.sh
+END
+build.lib.mk
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9231/trunk/mk/build.lib.mk
+END
+build.prog.mk
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9231/trunk/mk/build.prog.mk
+END
+cmpfiles.pl
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/6476/trunk/mk/cmpfiles.pl
+END
+agar-cvs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/8780/trunk/mk/agar-cvs.sh
+END
+get-version.pl
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/8765/trunk/mk/get-version.pl
+END
+build.dep.mk
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/8780/trunk/mk/build.dep.mk
+END
+cleanfiles.pl
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/7900/trunk/mk/cleanfiles.pl
+END
+install-includes.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/8780/trunk/mk/install-includes.sh
+END

@@ -1,0 +1,1355 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/agar/!svn/ver/9114/trunk/ada-gui
+END
+agar-gui-widget-fixed_plotter.adb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/agar/!svn/ver/7616/trunk/ada-gui/agar-gui-widget-fixed_plotter.adb
+END
+inst-check.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/7532/trunk/ada-gui/inst-check.c
+END
+agar-gui-widget-checkbox.apk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/agar/!svn/ver/7559/trunk/ada-gui/agar-gui-widget-checkbox.apk
+END
+cc-compile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/7532/trunk/ada-gui/cc-compile
+END
+cc-slib
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/7532/trunk/ada-gui/cc-slib
+END
+agar-gui-widget-progress_bar.apk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/agar/!svn/ver/7656/trunk/ada-gui/agar-gui-widget-progress_bar.apk
+END
+Mkf-instchk
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/7532/trunk/ada-gui/Mkf-instchk
+END
+ada-srcmap-all
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/7532/trunk/ada-gui/ada-srcmap-all
+END
+agar-gui-unit.ads
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/7548/trunk/ada-gui/agar-gui-unit.ads
+END
+ada-link
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/7532/trunk/ada-gui/ada-link
+END
+Mkf-install
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/7532/trunk/ada-gui/Mkf-install
+END
+agar-gui-widget-hbox.ads
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/7659/trunk/ada-gui/agar-gui-widget-hbox.ads
+END
+agar-gui-widget-slider.adb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/7657/trunk/ada-gui/agar-gui-widget-slider.adb
+END
+agar-gui-widget-toolbar.ads
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/agar/!svn/ver/7672/trunk/ada-gui/agar-gui-widget-toolbar.ads
+END
+agar-gui-ada-conf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/agar/!svn/ver/7532/trunk/ada-gui/agar-gui-ada-conf.c
+END
+agar-gui-widget-console.ads
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/agar/!svn/ver/7897/trunk/ada-gui/agar-gui-widget-console.ads
+END
+agar-gui-widget-file_dialog.apk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/agar/!svn/ver/7593/trunk/ada-gui/agar-gui-widget-file_dialog.apk
+END
+agar-gui-widget-pane.adb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/7656/trunk/ada-gui/agar-gui-widget-pane.adb
+END
+instchk.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/7532/trunk/ada-gui/instchk.c
+END
+agar-gui-widget-combo.apk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/7584/trunk/ada-gui/agar-gui-widget-combo.apk
+END
+agar-gui-widget.apk
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/agar/!svn/ver/7532/trunk/ada-gui/agar-gui-widget.apk
+END
+agar-gui-widget-titlebar.ads
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/agar/!svn/ver/7688/trunk/ada-gui/agar-gui-widget-titlebar.ads
+END
+agar-gui-widget-socket.adb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/7665/trunk/ada-gui/agar-gui-widget-socket.adb
+END
+agar-gui-widget-menu.apk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/7645/trunk/ada-gui/agar-gui-widget-menu.apk
+END
+agar-gui-widget-fixed_plotter.ads
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/agar/!svn/ver/7659/trunk/ada-gui/agar-gui-widget-fixed_plotter.ads
+END
+agar-gui-view.adb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/7584/trunk/ada-gui/agar-gui-view.adb
+END
+conf-dlibdir
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/7532/trunk/ada-gui/conf-dlibdir
+END
+agar-gui-widget-editable.apk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/agar/!svn/ver/7560/trunk/ada-gui/agar-gui-widget-editable.apk
+END
+agar-gui-pixelformat.apk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/7532/trunk/ada-gui/agar-gui-pixelformat.apk
+END
+agar-gui-widget-pixmap.adb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/7653/trunk/ada-gui/agar-gui-widget-pixmap.adb
+END
+agar-gui-widget-tlist.adb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/7672/trunk/ada-gui/agar-gui-widget-tlist.adb
+END
+agar-gui-ada-conf.ld
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/agar/!svn/ver/7532/trunk/ada-gui/agar-gui-ada-conf.ld
+END
+agar-gui-draw.apk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/7532/trunk/ada-gui/agar-gui-draw.apk
+END
+agar-gui-widget-slider.ads
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/8064/trunk/ada-gui/agar-gui-widget-slider.ads
+END
+agar-gui-widget-pane.ads
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/7659/trunk/ada-gui/agar-gui-widget-pane.ads
+END
+agar-gui-widget-numerical.apk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/agar/!svn/ver/7645/trunk/ada-gui/agar-gui-widget-numerical.apk
+END
+agar-gui-surface.adb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/agar/!svn/ver/7584/trunk/ada-gui/agar-gui-surface.adb
+END
+agar-gui-widget-socket.ads
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/7665/trunk/ada-gui/agar-gui-widget-socket.ads
+END
+agar-gui-view.ads
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/8347/trunk/ada-gui/agar-gui-view.ads
+END
+ag_scrollbar.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/8614/trunk/ada-gui/ag_scrollbar.c
+END
+ag_text.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/7745/trunk/ada-gui/ag_text.c
+END
+agar-gui-widget-icon.apk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/7633/trunk/ada-gui/agar-gui-widget-icon.apk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/8780/trunk/ada-gui/Makefile
+END
+agar-gui-widget-pixmap.ads
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/7897/trunk/ada-gui/agar-gui-widget-pixmap.ads
+END
+agar-gui-widget-tlist.ads
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/7897/trunk/ada-gui/agar-gui-widget-tlist.ads
+END
+agar-gui-widget-textbox.apk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/agar/!svn/ver/7665/trunk/ada-gui/agar-gui-widget-textbox.apk
+END
+agar-gui-widget-hsvpal.apk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/7633/trunk/ada-gui/agar-gui-widget-hsvpal.apk
+END
+agar-gui-widget-table.adb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/7671/trunk/ada-gui/agar-gui-widget-table.adb
+END
+agar-gui-widget-box.adb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/8363/trunk/ada-gui/agar-gui-widget-box.adb
+END
+agar-gui-surface.ads
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/agar/!svn/ver/7653/trunk/ada-gui/agar-gui-surface.ads
+END
+installer.ld
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/7532/trunk/ada-gui/installer.ld
+END
+conf-aldfflist
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/7532/trunk/ada-gui/conf-aldfflist
+END
+ag_menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/7645/trunk/ada-gui/ag_menu.c
+END
+ada-bind
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/7532/trunk/ada-gui/ada-bind
+END
+instchk.ld
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/7532/trunk/ada-gui/instchk.ld
+END
+agar-gui-widget-notebook.apk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/agar/!svn/ver/7634/trunk/ada-gui/agar-gui-widget-notebook.apk
+END
+agar-gui-colors.apk
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/agar/!svn/ver/7532/trunk/ada-gui/agar-gui-colors.apk
+END
+agar-gui-widget-table.ads
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/7897/trunk/ada-gui/agar-gui-widget-table.ads
+END
+agar-gui-widget-scrollbar.apk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/agar/!svn/ver/7656/trunk/ada-gui/agar-gui-widget-scrollbar.apk
+END
+agar-gui-types.apk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/7688/trunk/ada-gui/agar-gui-types.apk
+END
+agar-gui-widget-box.ads
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/7690/trunk/ada-gui/agar-gui-widget-box.ads
+END
+agar-gui-widget-vbox.adb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/7633/trunk/ada-gui/agar-gui-widget-vbox.adb
+END
+agar-gui-widget-label.adb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/8364/trunk/ada-gui/agar-gui-widget-label.adb
+END
+cc-link
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/7532/trunk/ada-gui/cc-link
+END
+ag_pixmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/7653/trunk/ada-gui/ag_pixmap.c
+END
+agar-gui-widget.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/7584/trunk/ada-gui/agar-gui-widget.sh
+END
+agar-gui-text.apk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/7532/trunk/ada-gui/agar-gui-text.apk
+END
+conf-incdir
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/7532/trunk/ada-gui/conf-incdir
+END
+agar-gui-point.apk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/7532/trunk/ada-gui/agar-gui-point.apk
+END
+agar-gui-widget-vbox.ads
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/7659/trunk/ada-gui/agar-gui-widget-vbox.ads
+END
+conf-ldflags
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/7532/trunk/ada-gui/conf-ldflags
+END
+agar-gui-widget-label.ads
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/8364/trunk/ada-gui/agar-gui-widget-label.ads
+END
+agar-gui-widget-graph.adb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/8364/trunk/ada-gui/agar-gui-widget-graph.adb
+END
+agar-gui-rect.apk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/7532/trunk/ada-gui/agar-gui-rect.apk
+END
+inst-copy.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/7532/trunk/ada-gui/inst-copy.c
+END
+conf-slibdir
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/7532/trunk/ada-gui/conf-slibdir
+END
+agar-gui-window.apk
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/agar/!svn/ver/7535/trunk/ada-gui/agar-gui-window.apk
+END
+ag_widget.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8454/trunk/ada-gui/ag_widget.c
+END
+ag_surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/8531/trunk/ada-gui/ag_surface.c
+END
+agar-gui.adb
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/7659/trunk/ada-gui/agar-gui.adb
+END
+agar-gui-widget-graph.ads
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/7897/trunk/ada-gui/agar-gui-widget-graph.ads
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/8032/trunk/ada-gui/LICENSE
+END
+agar-gui-widget-radio.apk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/7656/trunk/ada-gui/agar-gui-widget-radio.apk
+END
+agar-gui-widget-fixed.apk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/7608/trunk/ada-gui/agar-gui-widget-fixed.apk
+END
+agar-gui-widget-separator.apk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/agar/!svn/ver/7657/trunk/ada-gui/agar-gui-widget-separator.apk
+END
+agar-gui-widget-mpane.apk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/7634/trunk/ada-gui/agar-gui-widget-mpane.apk
+END
+conf-adalink
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/7532/trunk/ada-gui/conf-adalink
+END
+agar-gui-widget-checkbox.adb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/agar/!svn/ver/8364/trunk/ada-gui/agar-gui-widget-checkbox.adb
+END
+conf-adacomp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/7532/trunk/ada-gui/conf-adacomp
+END
+agar-gui-text.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/7560/trunk/ada-gui/agar-gui-text.sh
+END
+deinstaller.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/7532/trunk/ada-gui/deinstaller.c
+END
+conf-adacflags
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/7532/trunk/ada-gui/conf-adacflags
+END
+agar-gui-widget-progress_bar.adb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/agar/!svn/ver/7656/trunk/ada-gui/agar-gui-widget-progress_bar.adb
+END
+agar-gui-widget-file_dialog.adb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/agar/!svn/ver/8364/trunk/ada-gui/agar-gui-widget-file_dialog.adb
+END
+agar-gui-widget-combo.adb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/8364/trunk/ada-gui/agar-gui-widget-combo.adb
+END
+agar-gui-widget-button.apk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/7553/trunk/ada-gui/agar-gui-widget-button.apk
+END
+agar-gui-style.ads
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/7897/trunk/ada-gui/agar-gui-style.ads
+END
+agar-gui.ads
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/8313/trunk/ada-gui/agar-gui.ads
+END
+agar-gui-widget.adb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/agar/!svn/ver/8454/trunk/ada-gui/agar-gui-widget.adb
+END
+agar-gui-widget-menu.adb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/8391/trunk/ada-gui/agar-gui-widget-menu.adb
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/7683/trunk/ada-gui/TODO
+END
+ag_vbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/7632/trunk/ada-gui/ag_vbox.c
+END
+inst-link.ld
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/7532/trunk/ada-gui/inst-link.ld
+END
+agar-gui-widget-checkbox.ads
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/agar/!svn/ver/7759/trunk/ada-gui/agar-gui-widget-checkbox.ads
+END
+ctxt.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/7532/trunk/ada-gui/ctxt.h
+END
+ada-srcmap
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/7532/trunk/ada-gui/ada-srcmap
+END
+agar-gui-widget-ucombo.apk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/7672/trunk/ada-gui/agar-gui-widget-ucombo.apk
+END
+agar-gui-widget-progress_bar.ads
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/agar/!svn/ver/7659/trunk/ada-gui/agar-gui-widget-progress_bar.ads
+END
+agar-gui-widget-editable.adb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/agar/!svn/ver/9114/trunk/ada-gui/agar-gui-widget-editable.adb
+END
+conf-repos
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/7532/trunk/ada-gui/conf-repos
+END
+agar-gui-draw.adb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/7584/trunk/ada-gui/agar-gui-draw.adb
+END
+agar-gui-widget-numerical.adb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/agar/!svn/ver/8064/trunk/ada-gui/agar-gui-widget-numerical.adb
+END
+agar-gui-widget-file_dialog.ads
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/agar/!svn/ver/7659/trunk/ada-gui/agar-gui-widget-file_dialog.ads
+END
+agar-gui-widget-combo.ads
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/8058/trunk/ada-gui/agar-gui-widget-combo.ads
+END
+agar-gui-unit.apk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/7532/trunk/ada-gui/agar-gui-unit.apk
+END
+agar-gui-widget.ads
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/agar/!svn/ver/8454/trunk/ada-gui/agar-gui-widget.ads
+END
+SUPPORTED
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/7532/trunk/ada-gui/SUPPORTED
+END
+ag_textbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/7665/trunk/ada-gui/ag_textbox.c
+END
+agar-gui-widget-hbox.apk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/7631/trunk/ada-gui/agar-gui-widget-hbox.apk
+END
+agar-gui-widget-menu.ads
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/8482/trunk/ada-gui/agar-gui-widget-menu.ads
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/7532/trunk/ada-gui/VERSION
+END
+agar-gui-widget-console.apk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/agar/!svn/ver/7584/trunk/ada-gui/agar-gui-widget-console.apk
+END
+agar-gui-widget-toolbar.apk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/agar/!svn/ver/7672/trunk/ada-gui/agar-gui-widget-toolbar.apk
+END
+agar-gui-widget-icon.adb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/8364/trunk/ada-gui/agar-gui-widget-icon.adb
+END
+agar-gui-pixelformat.ads
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/7532/trunk/ada-gui/agar-gui-pixelformat.ads
+END
+Mkf-test
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/7532/trunk/ada-gui/Mkf-test
+END
+agar-gui-widget-editable.ads
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/agar/!svn/ver/9114/trunk/ada-gui/agar-gui-widget-editable.ads
+END
+conf-bindir
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/7532/trunk/ada-gui/conf-bindir
+END
+agar-gui-widget-titlebar.apk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/agar/!svn/ver/7688/trunk/ada-gui/agar-gui-widget-titlebar.apk
+END
+mk-cctype
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/7532/trunk/ada-gui/mk-cctype
+END
+mk-mk-ctxt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/7532/trunk/ada-gui/mk-mk-ctxt
+END
+agar-gui-widget-fixed_plotter.apk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/agar/!svn/ver/7616/trunk/ada-gui/agar-gui-widget-fixed_plotter.apk
+END
+agar-gui-draw.ads
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/7548/trunk/ada-gui/agar-gui-draw.ads
+END
+agar-gui-widget-hsvpal.adb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/7633/trunk/ada-gui/agar-gui-widget-hsvpal.adb
+END
+agar-gui-widget-textbox.adb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/agar/!svn/ver/8364/trunk/ada-gui/agar-gui-widget-textbox.adb
+END
+agar-gui-widget-numerical.ads
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/agar/!svn/ver/8332/trunk/ada-gui/agar-gui-widget-numerical.ads
+END
+conf-adabind
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/7532/trunk/ada-gui/conf-adabind
+END
+conf-adaldflags
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/agar/!svn/ver/7532/trunk/ada-gui/conf-adaldflags
+END
+ag_unit.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/7532/trunk/ada-gui/ag_unit.c
+END
+flags-cwd
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/7532/trunk/ada-gui/flags-cwd
+END
+agar-gui-widget-slider.apk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/7657/trunk/ada-gui/agar-gui-widget-slider.apk
+END
+agar-gui-widget-pane.apk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/7656/trunk/ada-gui/agar-gui-widget-pane.apk
+END
+conf-cc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/7532/trunk/ada-gui/conf-cc
+END
+ag_event.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/7548/trunk/ada-gui/ag_event.c
+END
+agar-gui-widget-icon.ads
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/7688/trunk/ada-gui/agar-gui-widget-icon.ads
+END
+flags-exceptions
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/7626/trunk/ada-gui/flags-exceptions
+END
+agar-gui-widget-socket.apk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/7577/trunk/ada-gui/agar-gui-widget-socket.apk
+END
+agar-gui-view.apk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/7532/trunk/ada-gui/agar-gui-view.apk
+END
+agar-gui-widget-textbox.ads
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/agar/!svn/ver/8332/trunk/ada-gui/agar-gui-widget-textbox.ads
+END
+agar-gui-widget-hsvpal.ads
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/7659/trunk/ada-gui/agar-gui-widget-hsvpal.ads
+END
+ag_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/7671/trunk/ada-gui/ag_table.c
+END
+agar-gui-colors.adb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/agar/!svn/ver/7584/trunk/ada-gui/agar-gui-colors.adb
+END
+agar-gui-widget-notebook.adb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/agar/!svn/ver/7634/trunk/ada-gui/agar-gui-widget-notebook.adb
+END
+agar-gui-widget-scrollbar.adb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/agar/!svn/ver/7656/trunk/ada-gui/agar-gui-widget-scrollbar.adb
+END
+agar-gui-types.adb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/7688/trunk/ada-gui/agar-gui-types.adb
+END
+agar-gui-widget-pixmap.apk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/7653/trunk/ada-gui/agar-gui-widget-pixmap.apk
+END
+agar-gui-widget-tlist.apk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/7672/trunk/ada-gui/agar-gui-widget-tlist.apk
+END
+ag_draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/7532/trunk/ada-gui/ag_draw.c
+END
+inst-dir.ld
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/7532/trunk/ada-gui/inst-dir.ld
+END
+ag_hbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/7632/trunk/ada-gui/ag_hbox.c
+END
+inst-link.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/7532/trunk/ada-gui/inst-link.c
+END
+agar-gui-surface.apk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/agar/!svn/ver/7532/trunk/ada-gui/agar-gui-surface.apk
+END
+ag_window.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/7688/trunk/ada-gui/ag_window.c
+END
+agar-gui-colors.ads
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/agar/!svn/ver/7548/trunk/ada-gui/agar-gui-colors.ads
+END
+agar-gui-widget-notebook.ads
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/agar/!svn/ver/7897/trunk/ada-gui/agar-gui-widget-notebook.ads
+END
+agar-gui-text.adb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/8364/trunk/ada-gui/agar-gui-text.adb
+END
+agar-gui-types.ads
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/7897/trunk/ada-gui/agar-gui-types.ads
+END
+agar-gui-widget-scrollbar.ads
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/agar/!svn/ver/8064/trunk/ada-gui/agar-gui-widget-scrollbar.ads
+END
+mk-ldtype
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/7532/trunk/ada-gui/mk-ldtype
+END
+ag_label.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/8094/trunk/ada-gui/ag_label.c
+END
+inst-dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/7532/trunk/ada-gui/inst-dir.c
+END
+mk-sosuffix
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/7532/trunk/ada-gui/mk-sosuffix
+END
+ada-compile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/7532/trunk/ada-gui/ada-compile
+END
+agar-gui-widget-table.apk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/7671/trunk/ada-gui/agar-gui-widget-table.apk
+END
+agar-gui-widget-box.apk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/7550/trunk/ada-gui/agar-gui-widget-box.apk
+END
+installer.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/7532/trunk/ada-gui/installer.c
+END
+gnat.adc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/7688/trunk/ada-gui/gnat.adc
+END
+conf-ccfflist
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/7626/trunk/ada-gui/conf-ccfflist
+END
+conf-ld
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/7532/trunk/ada-gui/conf-ld
+END
+inst-copy.ld
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/7532/trunk/ada-gui/inst-copy.ld
+END
+agar-gui-text.ads
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/7841/trunk/ada-gui/agar-gui-text.ads
+END
+mk-systype
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/7532/trunk/ada-gui/mk-systype
+END
+agar-gui-window.adb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/agar/!svn/ver/8364/trunk/ada-gui/agar-gui-window.adb
+END
+inst-check.ld
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/7532/trunk/ada-gui/inst-check.ld
+END
+conf-adabflags
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/7532/trunk/ada-gui/conf-adabflags
+END
+agar-gui-point.ads
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/7532/trunk/ada-gui/agar-gui-point.ads
+END
+install.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/7532/trunk/ada-gui/install.h
+END
+agar-gui-rect.ads
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/7897/trunk/ada-gui/agar-gui-rect.ads
+END
+agar-gui-widget-radio.adb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/8391/trunk/ada-gui/agar-gui-widget-radio.adb
+END
+install_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/7532/trunk/ada-gui/install_core.c
+END
+agar-gui-widget-fixed.adb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/7616/trunk/ada-gui/agar-gui-widget-fixed.adb
+END
+install_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/agar/!svn/ver/7532/trunk/ada-gui/install_error.c
+END
+agar-gui-widget-separator.adb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/agar/!svn/ver/7657/trunk/ada-gui/agar-gui-widget-separator.adb
+END
+agar-gui-widget-mpane.adb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/7634/trunk/ada-gui/agar-gui-widget-mpane.adb
+END
+ag_button.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/7553/trunk/ada-gui/ag_button.c
+END
+agar-gui-widget-vbox.apk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/7631/trunk/ada-gui/agar-gui-widget-vbox.apk
+END
+agar-gui-widget-label.apk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/7633/trunk/ada-gui/agar-gui-widget-label.apk
+END
+insthier.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/7688/trunk/ada-gui/insthier.c
+END
+agar-gui-window.ads
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/agar/!svn/ver/7785/trunk/ada-gui/agar-gui-window.ads
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/7737/trunk/ada-gui/CHANGES
+END
+agar-gui-widget-button.adb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/8364/trunk/ada-gui/agar-gui-widget-button.adb
+END
+postinstall
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/7532/trunk/ada-gui/postinstall
+END
+agar-gui-widget-radio.ads
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/8391/trunk/ada-gui/agar-gui-widget-radio.ads
+END
+conf-adafflist
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/7532/trunk/ada-gui/conf-adafflist
+END
+agar-gui-widget-fixed.ads
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/7659/trunk/ada-gui/agar-gui-widget-fixed.ads
+END
+agar-gui-widget-separator.ads
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/agar/!svn/ver/7657/trunk/ada-gui/agar-gui-widget-separator.ads
+END
+agar-gui-widget-mpane.ads
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/7659/trunk/ada-gui/agar-gui-widget-mpane.ads
+END
+conf-cflags
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/7532/trunk/ada-gui/conf-cflags
+END
+conf-mkfdirs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/7532/trunk/ada-gui/conf-mkfdirs
+END
+agar-gui-widget-ucombo.adb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/7672/trunk/ada-gui/agar-gui-widget-ucombo.adb
+END
+agar-gui-widget-graph.apk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/agar/!svn/ver/7630/trunk/ada-gui/agar-gui-widget-graph.apk
+END
+Mkf-deinstall
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/7532/trunk/ada-gui/Mkf-deinstall
+END
+agar-gui-widget-button.ads
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/7841/trunk/ada-gui/agar-gui-widget-button.ads
+END
+mk-adatype
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/7532/trunk/ada-gui/mk-adatype
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/8032/trunk/ada-gui/README
+END
+agar-gui-unit.adb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/7584/trunk/ada-gui/agar-gui-unit.adb
+END
+agar-gui-widget-hbox.adb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/7633/trunk/ada-gui/agar-gui-widget-hbox.adb
+END
+agar-gui-ada.sld
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/7688/trunk/ada-gui/agar-gui-ada.sld
+END
+agar-gui-widget-toolbar.adb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/agar/!svn/ver/7672/trunk/ada-gui/agar-gui-widget-toolbar.adb
+END
+agar-gui-widget-console.adb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/agar/!svn/ver/8364/trunk/ada-gui/agar-gui-widget-console.adb
+END
+agar-gui-style.apk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/7532/trunk/ada-gui/agar-gui-style.apk
+END
+deinstaller.ld
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/7532/trunk/ada-gui/deinstaller.ld
+END
+agar-gui-widget-ucombo.ads
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/agar/!svn/ver/7672/trunk/ada-gui/agar-gui-widget-ucombo.ads
+END
+agar-gui.apk
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/7535/trunk/ada-gui/agar-gui.apk
+END
+agar-gui-widget-titlebar.adb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/agar/!svn/ver/7851/trunk/ada-gui/agar-gui-widget-titlebar.adb
+END

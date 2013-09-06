@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/agar/!svn/ver/9024/trunk/Packages
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/8780/trunk/Packages/Makefile.inc
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/8132/trunk/Packages/config.guess
+END
+install-subst.pl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/6952/trunk/Packages/install-subst.pl
+END
+install-unix.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/8132/trunk/Packages/install-unix.sh
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/agar/!svn/ver/8766/trunk/ada-demos/SYSDEPS/modules/agar-core-ada-libs
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/modules/agar-core-ada-libs/run
+END
+creates
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/modules/agar-core-ada-libs/creates
+END
+config_bin_args
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/modules/agar-core-ada-libs/config_bin_args
+END
+config_bin
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/modules/agar-core-ada-libs/config_bin
+END
+desc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/modules/agar-core-ada-libs/desc
+END
+clean
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/agar/!svn/ver/7680/trunk/ada-demos/SYSDEPS/modules/agar-core-ada-libs/clean
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9514/trunk/tests/agaraudio
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/9513/trunk/tests/agaraudio/Makefile
+END
+agaraudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/agar/!svn/ver/9514/trunk/tests/agaraudio/agaraudio.c
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/agar/!svn/ver/9513/trunk/tests/agaraudio/configure
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/agar/!svn/ver/9513/trunk/tests/agaraudio/configure.in
+END

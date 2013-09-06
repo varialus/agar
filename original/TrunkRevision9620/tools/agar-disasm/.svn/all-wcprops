@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9211/trunk/tools/agar-disasm
+END
+agar-disasm.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/9208/trunk/tools/agar-disasm/agar-disasm.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/8780/trunk/tools/agar-disasm/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/8175/trunk/tools/agar-disasm/README
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/agar/!svn/ver/9211/trunk/tools/agar-disasm/configure
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/agar/!svn/ver/8765/trunk/tools/agar-disasm/configure.in
+END
+agar-disasm.1
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/8175/trunk/tools/agar-disasm/agar-disasm.1
+END

@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/agar/!svn/ver/8780/trunk/ada-demos
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/8780/trunk/ada-demos/Makefile
+END
+conf-adafflist
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/7680/trunk/ada-demos/conf-adafflist
+END
+conf-adalink
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/7680/trunk/ada-demos/conf-adalink
+END
+conf-adacomp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/7680/trunk/ada-demos/conf-adacomp
+END
+conf-adacflags
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/7680/trunk/ada-demos/conf-adacflags
+END
+winicon_callbacks.adb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/7689/trunk/ada-demos/winicon_callbacks.adb
+END
+demo.ads
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/7691/trunk/ada-demos/demo.ads
+END
+winicon.adb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/7689/trunk/ada-demos/winicon.adb
+END
+conf-aldfflist
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/7680/trunk/ada-demos/conf-aldfflist
+END
+mk-adatype
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/7680/trunk/ada-demos/mk-adatype
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/8032/trunk/ada-demos/README
+END
+demo.apk
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/7680/trunk/ada-demos/demo.apk
+END
+ada-bind
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/7680/trunk/ada-demos/ada-bind
+END
+winicon.ald
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/7689/trunk/ada-demos/winicon.ald
+END
+mk-ldtype
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/7680/trunk/ada-demos/mk-ldtype
+END
+slider_callbacks.adb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/agar/!svn/ver/7691/trunk/ada-demos/slider_callbacks.adb
+END
+slider.adb
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/7691/trunk/ada-demos/slider.adb
+END
+ada-srcmap
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/7680/trunk/ada-demos/ada-srcmap
+END
+winicon_callbacks.ads
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/7689/trunk/ada-demos/winicon_callbacks.ads
+END
+ada-compile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/7680/trunk/ada-demos/ada-compile
+END
+cc-compile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/7680/trunk/ada-demos/cc-compile
+END
+cc-slib
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/7680/trunk/ada-demos/cc-slib
+END
+keyevent_callbacks.adb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/7680/trunk/ada-demos/keyevent_callbacks.adb
+END
+ada-srcmap-all
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/7680/trunk/ada-demos/ada-srcmap-all
+END
+winicon_callbacks.apk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/agar/!svn/ver/7689/trunk/ada-demos/winicon_callbacks.apk
+END
+keyevent.adb
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/8387/trunk/ada-demos/keyevent.adb
+END
+gnat.adc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/7691/trunk/ada-demos/gnat.adc
+END
+cc-link
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/7680/trunk/ada-demos/cc-link
+END
+ada-link
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/7680/trunk/ada-demos/ada-link
+END
+slider.ald
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/7691/trunk/ada-demos/slider.ald
+END
+conf-ld
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/7680/trunk/ada-demos/conf-ld
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/7680/trunk/ada-demos/VERSION
+END
+mk-systype
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/7680/trunk/ada-demos/mk-systype
+END
+slider_callbacks.ads
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/agar/!svn/ver/7691/trunk/ada-demos/slider_callbacks.ads
+END
+keyevent.ald
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/7680/trunk/ada-demos/keyevent.ald
+END
+slider_callbacks.apk
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/agar/!svn/ver/7691/trunk/ada-demos/slider_callbacks.apk
+END
+mk-mk-ctxt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/7680/trunk/ada-demos/mk-mk-ctxt
+END
+mk-cctype
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/7680/trunk/ada-demos/mk-cctype
+END
+keyevent_callbacks.ads
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/7680/trunk/ada-demos/keyevent_callbacks.ads
+END
+keyevent_callbacks.apk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/agar/!svn/ver/7680/trunk/ada-demos/keyevent_callbacks.apk
+END
+conf-adabind
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/7680/trunk/ada-demos/conf-adabind
+END
+conf-cc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/7680/trunk/ada-demos/conf-cc
+END
+sphere.png
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/7689/trunk/ada-demos/sphere.png
+END
+demo.adb
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/7691/trunk/ada-demos/demo.adb
+END

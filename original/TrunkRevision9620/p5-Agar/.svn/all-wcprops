@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/agar/!svn/ver/9561/trunk/p5-Agar
+END
+perl_agar.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8555/trunk/p5-Agar/perl_agar.h
+END
+Agar.pm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/8555/trunk/p5-Agar/Agar.pm
+END
+Radio.xs
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/8364/trunk/p5-Agar/Radio.xs
+END
+Makefile.PL
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8555/trunk/p5-Agar/Makefile.PL
+END
+Combo.xs
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/8364/trunk/p5-Agar/Combo.xs
+END
+Separator.xs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/8069/trunk/p5-Agar/Separator.xs
+END
+agardemo.pl
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8597/trunk/p5-Agar/agardemo.pl
+END
+foo.pl
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/7328/trunk/p5-Agar/foo.pl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/8555/trunk/p5-Agar/README
+END
+Menu.xs
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/8718/trunk/p5-Agar/Menu.xs
+END
+Config.xs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/8271/trunk/p5-Agar/Config.xs
+END
+Agar.xs
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/8804/trunk/p5-Agar/Agar.xs
+END
+Button.xs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/8364/trunk/p5-Agar/Button.xs
+END
+Numerical.xs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/9561/trunk/p5-Agar/Numerical.xs
+END
+Label.xs
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/8364/trunk/p5-Agar/Label.xs
+END
+Slider.xs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9561/trunk/p5-Agar/Slider.xs
+END
+Widget.xs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/8804/trunk/p5-Agar/Widget.xs
+END
+UCombo.xs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/8069/trunk/p5-Agar/UCombo.xs
+END
+Box.xs
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/8364/trunk/p5-Agar/Box.xs
+END
+Surface.xs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/8555/trunk/p5-Agar/Surface.xs
+END
+Scrollview.xs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/8069/trunk/p5-Agar/Scrollview.xs
+END
+ProgressBar.xs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/8069/trunk/p5-Agar/ProgressBar.xs
+END
+PixelFormat.xs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/8555/trunk/p5-Agar/PixelFormat.xs
+END
+Textbox.xs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9561/trunk/p5-Agar/Textbox.xs
+END
+Pixmap.xs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/8069/trunk/p5-Agar/Pixmap.xs
+END
+Fixed.xs
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/8069/trunk/p5-Agar/Fixed.xs
+END
+Tlist.xs
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/8531/trunk/p5-Agar/Tlist.xs
+END
+MPane.xs
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/8069/trunk/p5-Agar/MPane.xs
+END
+Toolbar.xs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/8531/trunk/p5-Agar/Toolbar.xs
+END
+Console.xs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/8069/trunk/p5-Agar/Console.xs
+END
+Object.xs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/8555/trunk/p5-Agar/Object.xs
+END
+Font.xs
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/8069/trunk/p5-Agar/Font.xs
+END
+FileDlg.xs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/8364/trunk/p5-Agar/FileDlg.xs
+END
+Window.xs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9561/trunk/p5-Agar/Window.xs
+END
+Editable.xs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/9561/trunk/p5-Agar/Editable.xs
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/8067/trunk/p5-Agar/MANIFEST
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/8067/trunk/p5-Agar/INSTALL
+END
+Notebook.xs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/9561/trunk/p5-Agar/Notebook.xs
+END
+Event.xs
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/8555/trunk/p5-Agar/Event.xs
+END
+Scrollbar.xs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/9561/trunk/p5-Agar/Scrollbar.xs
+END
+Pane.xs
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9561/trunk/p5-Agar/Pane.xs
+END
+Text.xs
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9561/trunk/p5-Agar/Text.xs
+END
+typemap
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/8555/trunk/p5-Agar/typemap
+END
+Checkbox.xs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8364/trunk/p5-Agar/Checkbox.xs
+END

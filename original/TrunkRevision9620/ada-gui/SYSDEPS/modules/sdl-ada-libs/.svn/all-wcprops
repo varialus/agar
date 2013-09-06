@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/agar/!svn/ver/8766/trunk/ada-gui/SYSDEPS/modules/sdl-ada-libs
+END
+config_bin
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/sdl-ada-libs/config_bin
+END
+desc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/sdl-ada-libs/desc
+END
+clean
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/sdl-ada-libs/clean
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/sdl-ada-libs/run
+END
+creates
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/sdl-ada-libs/creates
+END
+config_bin_args
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/agar/!svn/ver/7532/trunk/ada-gui/SYSDEPS/modules/sdl-ada-libs/config_bin_args
+END

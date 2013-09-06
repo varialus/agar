@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/agar/!svn/ver/9616/trunk/tests
+END
+rendertosurface.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/agar/!svn/ver/9336/trunk/tests/rendertosurface.c
+END
+customwidget_mywidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/agar/!svn/ver/9293/trunk/tests/customwidget_mywidget.h
+END
+helmet-socket.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/agar/!svn/ver/9299/trunk/tests/helmet-socket.bmp
+END
+objsystem_animal.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/9536/trunk/tests/objsystem_animal.c
+END
+math_vector3.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/9353/trunk/tests/math_vector3.h
+END
+Makefile.proj
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/9476/trunk/tests/Makefile.proj
+END
+objsystem_animal.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/9407/trunk/tests/objsystem_animal.h
+END
+loader.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9494/trunk/tests/loader.c
+END
+fixedres.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9336/trunk/tests/fixedres.c
+END
+agartest.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9616/trunk/tests/agartest.c
+END
+agartest.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9575/trunk/tests/agartest.h
+END
+sword-socket.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/9299/trunk/tests/sword-socket.bmp
+END
+helmet.png
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9299/trunk/tests/helmet.png
+END
+agar-index.png
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/9290/trunk/tests/agar-index.png
+END
+stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9290/trunk/tests/stub.h
+END
+themes.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9499/trunk/tests/themes.c
+END
+pepe.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9290/trunk/tests/pepe.jpg
+END
+scrollview.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9559/trunk/tests/scrollview.c
+END
+compositing.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/9336/trunk/tests/compositing.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9607/trunk/tests/Makefile
+END
+plotting.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9431/trunk/tests/plotting.c
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9604/trunk/tests/configure
+END
+unitconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9336/trunk/tests/unitconv.c
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9604/trunk/tests/configure.in
+END
+agar.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9290/trunk/tests/agar.bmp
+END
+fspaths.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9336/trunk/tests/fspaths.c
+END
+sockets.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9336/trunk/tests/sockets.c
+END
+loss.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9290/trunk/tests/loss.txt
+END
+objsystem.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9336/trunk/tests/objsystem.c
+END
+imageloading.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/9336/trunk/tests/imageloading.c
+END
+modalwindowhandler.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/agar/!svn/ver/9586/trunk/tests/modalwindowhandler.c
+END
+pane.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9349/trunk/tests/pane.c
+END
+maximized.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9336/trunk/tests/maximized.c
+END
+textbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9450/trunk/tests/textbox.c
+END
+objsystem_mammal.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/9293/trunk/tests/objsystem_mammal.c
+END
+string.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9583/trunk/tests/string.c
+END
+objsystem_mammal.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/9290/trunk/tests/objsystem_mammal.h
+END
+timeouts.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9583/trunk/tests/timeouts.c
+END
+textdlg.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9586/trunk/tests/textdlg.c
+END
+charsets.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9450/trunk/tests/charsets.c
+END
+agar.png
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9290/trunk/tests/agar.png
+END
+customwidget.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/9336/trunk/tests/customwidget.c
+END
+scrollbar.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9431/trunk/tests/scrollbar.c
+END
+green.acs
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9290/trunk/tests/green.acs
+END
+configsettings.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/9476/trunk/tests/configsettings.c
+END
+table.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9336/trunk/tests/table.c
+END
+math.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9349/trunk/tests/math.c
+END
+math_matrix44.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/9350/trunk/tests/math_matrix44.h
+END
+glview.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9536/trunk/tests/glview.c
+END
+palette.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9607/trunk/tests/palette.c
+END
+test1.png
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9290/trunk/tests/test1.png
+END
+console.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9453/trunk/tests/console.c
+END
+test2.png
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9290/trunk/tests/test2.png
+END
+menubg.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9299/trunk/tests/menubg.bmp
+END
+axe.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9299/trunk/tests/axe.bmp
+END
+helmet.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9299/trunk/tests/helmet.bmp
+END
+keyevents.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9336/trunk/tests/keyevents.c
+END
+focusing.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9336/trunk/tests/focusing.c
+END
+minimal.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9336/trunk/tests/minimal.c
+END
+customwidget_mywidget.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/agar/!svn/ver/9453/trunk/tests/customwidget_mywidget.c
+END
+network.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9484/trunk/tests/network.c
+END
+sword.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9299/trunk/tests/sword.bmp
+END
+threads.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9583/trunk/tests/threads.c
+END
+windows.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9396/trunk/tests/windows.c
+END
