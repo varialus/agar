@@ -69,6 +69,7 @@ package gui
 //
 ///* Window instance */
 //typedef struct ag_window {
+type ag_window struct {
 //	struct ag_widget wid;
 //
 //	Uint flags;
@@ -145,6 +146,10 @@ package gui
 //	AG_TAILQ_ENTRY(ag_window) visibility;	/* In agWindow{Show,Hide}Q */
 //	AG_TAILQ_ENTRY(ag_window) user;		/* In user list */
 //} AG_Window;
+}
+
+type AG_Window ag_window
+
 //
 //typedef AG_TAILQ_HEAD(ag_windowq, ag_window) AG_WindowQ;
 //
