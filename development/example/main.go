@@ -11,7 +11,7 @@ import (
 func main() {
 	var win *gui.AG_Window
 	fmt.Println("win ==", win)
-	if core.AG_InitCore(nil, 0) == -1 || gui.AG_InitGraphics("") == -1 {
+	if core.AG_InitCore("", 0) == -1 || gui.AG_InitGraphics("") == -1 {
 		os.Exit(1)
 	}
 	win = gui.AG_WindowNew(0)

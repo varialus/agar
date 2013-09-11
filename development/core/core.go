@@ -178,6 +178,7 @@ package core
 //int
 //AG_InitCore(const char *progname, Uint flags)
 //{
+func AG_InitCore(progname string, flags uint) int {
 //	if (flags & AG_VERBOSE)
 //		agVerbose = 1;
 //
@@ -273,7 +274,9 @@ package core
 //		return (-1);
 //	}
 //	return (0);
+	return 0
 //}
+}
 //
 ///* Register a function to invoke in AG_Quit(). */
 //void
