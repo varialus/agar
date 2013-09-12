@@ -418,6 +418,7 @@ package gui
 //int
 //AG_InitGraphics(const char *spec)
 //{
+func AG_InitGraphics(spec string) int {
 //	char specBuf[128], *s, *sOpts = "", *tok;
 //	AG_Driver *drv = NULL;
 //	AG_DriverClass *dc = NULL;
@@ -548,6 +549,7 @@ package gui
 //		goto fail_close;
 //	}
 //	return (0);
+	return 0
 //fail_close:
 //	if (drv != NULL) { AG_DriverClose(drv); }
 //	agDriverOps = NULL;
@@ -557,6 +559,7 @@ package gui
 //	AG_DestroyGUIGlobals();
 //	return (-1);
 //}
+}
 //
 ///* Provided for symmetry. */
 //void
