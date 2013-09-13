@@ -1406,6 +1406,7 @@ func AG_WindowNew(flags uint) AG_Window {
 //void
 //AG_WindowShow(AG_Window *win)
 //{
+func AG_WindowShow(win *AG_Window) {
 //	AG_ObjectLock(win);
 //	if (!win->visible) {
 //#ifdef AG_THREADS
@@ -1422,6 +1423,7 @@ func AG_WindowNew(flags uint) AG_Window {
 //	}
 //	AG_ObjectUnlock(win);
 //}
+}
 //
 ///* Make a window invisible to the user. */
 //void
