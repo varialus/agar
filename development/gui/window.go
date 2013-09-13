@@ -633,8 +633,10 @@ type AG_Window ag_window
 //AG_Window *
 //AG_WindowNew(Uint flags)
 //{
+func AG_WindowNew(flags uint) AG_Window {
 //	AG_Driver *drv;
 //	AG_Window *win;
+	var win AG_Window
 //
 //	if ((win = TryMalloc(sizeof(AG_Window))) == NULL) {
 //		return (NULL);
@@ -664,7 +666,9 @@ type AG_Window ag_window
 //		break;
 //	}
 //	return (win);
+	return win
 //}
+}
 //
 ///* Create a named window (C string). */
 //AG_Window *

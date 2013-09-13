@@ -9,7 +9,7 @@ import (
 	"os"
 )
 func main() {
-	var win *gui.AG_Window
+	var win gui.AG_Window
 	fmt.Println("win ==", win)
 	if core.AG_InitCore("", 0) == -1 || gui.AG_InitGraphics("") == -1 {
 		os.Exit(1)
