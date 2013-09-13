@@ -251,7 +251,7 @@ type aG_Label ag_label
 //AG_Label *
 //AG_LabelNew(void *parent, Uint flags, const char *fmt, ...)
 //{
-func AG_LabelNew(parent uintptr, flags uint, fmt string) aG_Label {
+func AG_LabelNew(parent *AG_Window, flags uint, fmt string) aG_Label {
 //	AG_Label *lbl;
 	var lbl aG_Label
 //	va_list ap;
