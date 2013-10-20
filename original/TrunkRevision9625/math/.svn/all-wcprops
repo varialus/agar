@@ -1,0 +1,599 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/agar/!svn/ver/9624/trunk/math
+END
+M_Line.3
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9259/trunk/math/M_Line.3
+END
+m_bitstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/7562/trunk/math/m_bitstring.h
+END
+begin.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/8921/trunk/math/begin.h
+END
+m_color.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9337/trunk/math/m_color.c
+END
+m_color.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/7885/trunk/math/m_color.h
+END
+LICENSE.Sparse14
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/8032/trunk/math/LICENSE.Sparse14
+END
+M_String.3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9337/trunk/math/M_String.3
+END
+m_math.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9354/trunk/math/m_math.c
+END
+m_plotter.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9563/trunk/math/m_plotter.c
+END
+m_math.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9349/trunk/math/m_math.h
+END
+m_plotter.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/8615/trunk/math/m_plotter.h
+END
+M_Color.3
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9337/trunk/math/M_Color.3
+END
+m_vector3_fpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/9349/trunk/math/m_vector3_fpu.c
+END
+m_geometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9622/trunk/math/m_geometry.h
+END
+m_vector.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9624/trunk/math/m_vector.c
+END
+M_Real.3
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9337/trunk/math/M_Real.3
+END
+m_matrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9354/trunk/math/m_matrix.c
+END
+m_vector3_fpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/9624/trunk/math/m_vector3_fpu.h
+END
+m_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9624/trunk/math/m_vector.h
+END
+m_complex.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/7887/trunk/math/m_complex.c
+END
+m_matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9624/trunk/math/m_matrix.h
+END
+M_Plotter.3
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9256/trunk/math/M_Plotter.3
+END
+M_Geometry.3
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9057/trunk/math/M_Geometry.3
+END
+m_sparse_build.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/7889/trunk/math/m_sparse_build.c
+END
+m_complex.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/8987/trunk/math/m_complex.h
+END
+m_matview.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9453/trunk/math/m_matview.c
+END
+m_sparse_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/8129/trunk/math/m_sparse_utils.c
+END
+m_radixsort.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/8583/trunk/math/m_radixsort.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9624/trunk/math/Makefile
+END
+m_matview.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/7899/trunk/math/m_matview.h
+END
+m_matrix_sparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/9624/trunk/math/m_matrix_sparse.c
+END
+M_Vector.3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9624/trunk/math/M_Vector.3
+END
+M_Matrix.3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9624/trunk/math/M_Matrix.3
+END
+m_heapsort.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/8583/trunk/math/m_heapsort.c
+END
+m.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/agar/!svn/ver/8225/trunk/math/m.h
+END
+m_sphere.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/8220/trunk/math/m_sphere.c
+END
+m_matrix_sparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/9337/trunk/math/m_matrix_sparse.h
+END
+M_Complex.3
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9260/trunk/math/M_Complex.3
+END
+m_sphere.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/8220/trunk/math/m_sphere.h
+END
+M_Matview.3
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9256/trunk/math/M_Matview.3
+END
+close.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/8126/trunk/math/close.h
+END
+m_vector3_sse.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/9349/trunk/math/m_vector3_sse.c
+END
+m_plane.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9622/trunk/math/m_plane.c
+END
+m_sparse_allocate.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/agar/!svn/ver/8583/trunk/math/m_sparse_allocate.c
+END
+m_sparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/7899/trunk/math/m_sparse.h
+END
+m_rectangle.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9057/trunk/math/m_rectangle.c
+END
+m_plane.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9622/trunk/math/m_plane.h
+END
+m_vector3_sse.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/9349/trunk/math/m_vector3_sse.h
+END
+m_sparse_solve.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/7890/trunk/math/m_sparse_solve.c
+END
+m_triangle.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9057/trunk/math/m_triangle.c
+END
+M_Sphere.3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/8222/trunk/math/M_Sphere.3
+END
+m_qsort.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/7562/trunk/math/m_qsort.c
+END
+m_rectangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9057/trunk/math/m_rectangle.h
+END
+m_coordinates.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/7562/trunk/math/m_coordinates.c
+END
+m_triangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9057/trunk/math/m_triangle.h
+END
+M_Plane.3
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/agar/!svn/ver/9622/trunk/math/M_Plane.3
+END
+m_coordinates.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/7562/trunk/math/m_coordinates.h
+END
+M_Rectangle.3
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9057/trunk/math/M_Rectangle.3
+END
+m_gui.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9431/trunk/math/m_gui.c
+END
+m_quaternion.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8229/trunk/math/m_quaternion.c
+END
+M_Triangle.3
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9057/trunk/math/M_Triangle.3
+END
+m_matrix44_fpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/9624/trunk/math/m_matrix44_fpu.c
+END
+m_polygon.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9076/trunk/math/m_polygon.c
+END
+m_convexhull.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/7562/trunk/math/m_convexhull.c
+END
+math_pub.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/7566/trunk/math/math_pub.h
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9501/trunk/math/Makefile.inc
+END
+m_gui.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/agar/!svn/ver/9333/trunk/math/m_gui.h
+END
+m_quaternion.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8229/trunk/math/m_quaternion.h
+END
+m_matrix44_fpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/9624/trunk/math/m_matrix44_fpu.h
+END
+m_vectorz.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/8227/trunk/math/m_vectorz.c
+END
+m_polygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9148/trunk/math/m_polygon.h
+END
+m_vector2_fpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/9349/trunk/math/m_vector2_fpu.c
+END
+m_vector4_fpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/9349/trunk/math/m_vector4_fpu.c
+END
+m_vectorz.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/8227/trunk/math/m_vectorz.h
+END
+m_circle.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9066/trunk/math/m_circle.c
+END
+m_vector2_fpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/9349/trunk/math/m_vector2_fpu.h
+END
+m_point_set.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9066/trunk/math/m_point_set.c
+END
+m_vector4_fpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/agar/!svn/ver/9349/trunk/math/m_vector4_fpu.h
+END
+M_Quaternion.3
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/8229/trunk/math/M_Quaternion.3
+END
+m_circle.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/7562/trunk/math/m_circle.h
+END
+m_sparse_eda.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/7889/trunk/math/m_sparse_eda.c
+END
+M_Polygon.3
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/agar/!svn/ver/9259/trunk/math/M_Polygon.3
+END
+m_mergesort.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/8583/trunk/math/m_mergesort.c
+END
+m_point_set.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/agar/!svn/ver/9066/trunk/math/m_point_set.h
+END
+m_vector_fpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/9349/trunk/math/m_vector_fpu.c
+END
+m_sparse_output.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/7890/trunk/math/m_sparse_output.c
+END
+m_matrix_fpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/9624/trunk/math/m_matrix_fpu.c
+END
+M_Circle.3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/agar/!svn/ver/9259/trunk/math/M_Circle.3
+END
+m_vector_fpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/9415/trunk/math/m_vector_fpu.h
+END
+m_matrix_fpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/9624/trunk/math/m_matrix_fpu.h
+END
+m_polyhedron.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/9058/trunk/math/m_polyhedron.c
+END
+M_PointSet.3
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9066/trunk/math/M_PointSet.3
+END
+m_matrix44_sse.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/9624/trunk/math/m_matrix44_sse.c
+END
+m_line.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9624/trunk/math/m_line.c
+END
+m_polyhedron.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/agar/!svn/ver/9058/trunk/math/m_polyhedron.h
+END
+m_sparse_factor.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/agar/!svn/ver/7890/trunk/math/m_sparse_factor.c
+END
+m_matrix44_sse.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/agar/!svn/ver/9624/trunk/math/m_matrix44_sse.h
+END
+m_line.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/agar/!svn/ver/9623/trunk/math/m_line.h
+END
+.manlinks.mk
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/agar/!svn/ver/9407/trunk/math/.manlinks.mk
+END
